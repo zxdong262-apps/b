@@ -1,0 +1,13 @@
+header.site-header
+  nav.container-fluid
+    ul
+      li
+        a.site-logo(href=base + "index.html") 🏠 碧桂园江山名筑
+    ul.nav-links#navLinks
+      li: a(href=base + "index.html" class=active === "home" ? "active" : "") 进度总览
+      li: a(href=base + "guanliyue.html" class=active === "guanliyue" ? "active" : "") 管理规约
+      li: a(href=base + "yishiguize.html" class=active === "yishiguize" ? "active" : "") 议事规则
+      li: a(href=base + "xuanjubanfa.html" class=active === "xuanjubanfa" ? "active" : "") 选举办法
+      li: a(href=base + "download.html" class=active === "download" ? "active" : "") 全部文件
+    ul.nav-mobile-toggle
+      li: a(href="#" onclick="toggleMenu(event)" aria-label="菜单") ☰

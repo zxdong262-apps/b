@@ -1,0 +1,37 @@
+extends layout
+
+block content
+  .doc-breadcrumb
+    a(href=base + "index.html") 首页
+    span  ›
+    span 全部文件
+
+  h2 📂 筹备工作文件存档
+  p 以下为长春市双阳区碧桂园江山名筑业主委员会筹备组存档的全部文件，可在线浏览或下载 Word 文档。
+
+  ul.file-list
+    li
+      .file-info
+        strong 📋 小区管理规约
+        small 业主权利义务、物业使用维护、安全管理、违约责任 · 7章38条
+      .file-actions
+        a(href=base + "guanliyue.html" role="button" class="outline secondary") 阅读
+        a(href=base + "documents/小区管理规约.docx" role="button" class="outline" download) 下载
+    li
+      .file-info
+        strong ⚖️ 业主大会议事规则
+        small 业主大会议事内容、表决程序、业主委员会职责 · 4章43条
+      .file-actions
+        a(href=base + "yishiguize.html" role="button" class="outline secondary") 阅读
+        a(href=base + "documents/业主大会议事规则.docx" role="button" class="outline" download) 下载
+    li
+      .file-info
+        strong 🗳️ 业主委员会选举办法
+        small 候选人资格、选举程序、投票方式、罢免机制 · 5章27条
+      .file-actions
+        a(href=base + "xuanjubanfa.html" role="button" class="outline secondary") 阅读
+        a(href=base + "documents/业主委员会选举办法.docx" role="button" class="outline" download) 下载
+
+  article.legal-note(style="margin-top:2rem;")
+    h3 📌 说明
+    p 以上文件基于《吉林省物业管理条例(2024修正)》及示范文本编制，由筹备组存档。如有法律问题，建议咨询专业律师或联系当地街道办事处。

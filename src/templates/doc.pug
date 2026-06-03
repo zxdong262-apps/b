@@ -1,0 +1,22 @@
+extends layout
+
+block content
+  .doc-breadcrumb
+    a(href=base + "index.html") 首页
+    span  ›
+    a(href=base + "download.html") 文件
+    span  ›
+    span= title
+
+  .doc-action-bar
+    div
+      strong= icon + " " + title
+      br
+      small(style="opacity:0.85") 长春市双阳区碧桂园江山名筑业主委员会筹备组 · 筹备工作存档文件
+    a(href=base + "documents/" + docx role="button" class="outline" download) 📥 下载 Word
+
+  article.doc-content
+    != docHtml
+
+  nav(style="margin-top:1.5rem;")
+    a(href=base + "download.html" role="button" class="outline") ← 返回文件列表

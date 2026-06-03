@@ -1,0 +1,33 @@
+{
+  "name": "yeweihui-preparation",
+  "version": "1.0.0",
+  "description": "业主委员会筹备工作指南 - 静态网站",
+  "type": "module",
+  "scripts": {
+    "start": "node build/serve.js",
+    "build": "node build/build.js",
+    "deploy": "npm run build && wrangler deploy",
+    "dev": "wrangler dev",
+    "clean": "rm -rf public"
+  },
+  "keywords": [
+    "业主委员会",
+    "业委会",
+    "物业管理",
+    "业主大会",
+    "管理规约",
+    "议事规则",
+    "选举办法"
+  ],
+  "license": "MIT",
+  "author": "",
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "devDependencies": {
+    "express": "^5.1.0",
+    "markdown-it": "^14.2.0",
+    "pug": "^3.0.4",
+    "wrangler": "^3.99.0"
+  }
+}

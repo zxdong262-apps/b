@@ -1,0 +1,10 @@
+doctype html
+html(lang="zh-CN")
+  head
+    include partials/head.pug
+  body
+    include partials/header.pug
+    main.container
+      block content
+    include partials/footer.pug
+    script(src=base + "js/main.js")
