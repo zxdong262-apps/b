@@ -383,7 +383,7 @@ details[open] summary::after {
 }
 
 .detail-body {
-  padding: 0 1rem 1rem;
+  padding: 1rem;
   border-top: 1px solid var(--c-border);
 }
 
