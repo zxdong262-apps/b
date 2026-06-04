@@ -22,6 +22,7 @@ const PAGES = {
   "guanliyue":    { title: "小区管理规约", active: "guanliyue", icon: "📋", docx: "小区管理规约.docx", md: "小区管理规约.md" },
   "yishiguize":   { title: "业主大会议事规则", active: "yishiguize", icon: "⚖️", docx: "业主大会议事规则.docx", md: "业主大会议事规则.md" },
   "xuanjubanfa":  { title: "业主委员会选举办法", active: "xuanjubanfa", icon: "🗳️", docx: "业主委员会选举办法.docx", md: "业主委员会选举办法.md" },
+  "xuanpiao":     { title: "选票模板", active: "xuanpiao", icon: "🗳️", docx: "选票模板.docx", md: "选票模板.md" },
 };
 
 const common = { base: BASE, description: "长春市双阳区碧桂园江山名筑业主委员会筹备组工作存档与进度跟踪" };
