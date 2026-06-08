@@ -27,6 +27,9 @@ const DOCS = [
   { tpl: "doc", out: "yishiguize.html", title: "业主大会议事规则", icon: "⚖️", docx: "业主大会议事规则.docx", md: "业主大会议事规则.md", active: "yishiguize" },
   { tpl: "doc", out: "xuanjubanfa.html", title: "业主委员会选举办法", icon: "🗳️", docx: "业主委员会选举办法.docx", md: "业主委员会选举办法.md", active: "xuanjubanfa" },
   { tpl: "doc", out: "xuanpiao.html", title: "选票模板", icon: "🗳️", docx: "选票模板.docx", md: "选票模板.md", active: "xuanpiao" },
+  { tpl: "doc", out: "shenfenGongshi.html", title: "业主身份公示模板", icon: "👤", docx: "附件B-业主身份公示模板.docx", md: "附件B-业主身份公示模板.md", active: "shenfenGongshi" },
+  { tpl: "doc", out: "baomingbiao.html", title: "候选人报名表模板", icon: "📝", docx: "附件C-候选人报名表模板.docx", md: "附件C-候选人报名表模板.md", active: "baomingbiao" },
+  { tpl: "doc", out: "zongheGongshi.html", title: "综合公示模板", icon: "📢", docx: "综合公示模板.docx", md: "综合公示模板.md", active: "zongheGongshi" },
 ];
 
 // Clean & create public/

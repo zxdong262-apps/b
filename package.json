@@ -25,6 +25,7 @@
     "node": ">=18.0.0"
   },
   "devDependencies": {
+    "docx": "^9.7.1",
     "express": "^5.1.0",
     "markdown-it": "^14.2.0",
     "pug": "^3.0.4",
