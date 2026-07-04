@@ -128,3 +128,4 @@ ftp-root
 /public/
 .wrangler/
 .dev.vars
+.workbuddy
