@@ -25,10 +25,14 @@ const PAGES = [
 const DOCS = [
   { tpl: "doc", out: "guanliyue.html", title: "小区管理规约", icon: "📋", docx: "小区管理规约.docx", md: "小区管理规约.md", active: "guanliyue" },
   { tpl: "doc", out: "yishiguize.html", title: "业主大会议事规则", icon: "⚖️", docx: "业主大会议事规则.docx", md: "业主大会议事规则.md", active: "yishiguize" },
+  { tpl: "doc", out: "biaojueGuize.html", title: "首次业主大会表决规则", icon: "📊", docx: "首次业主大会表决规则.docx", md: "首次业主大会表决规则.md", active: "biaojueGuize" },
   { tpl: "doc", out: "xuanjubanfa.html", title: "业主委员会选举办法", icon: "🗳️", docx: "业主委员会选举办法.docx", md: "业主委员会选举办法.md", active: "xuanjubanfa" },
+  { tpl: "doc", out: "houxuanrenBanfa.html", title: "候选人产生办法", icon: "👥", docx: "候选人产生办法.docx", md: "候选人产生办法.md", active: "houxuanrenBanfa" },
+  { tpl: "doc", out: "tuiXuanGonggao.html", title: "候选人产生办法及推选公告", icon: "📢", docx: "候选人产生办法及推选公告.docx", md: "候选人产生办法及推选公告.md", active: "tuiXuanGonggao" },
+  { tpl: "doc", out: "tuiJianBiao.html", title: "候选人推荐表", icon: "📝", docx: "候选人推荐表.docx", md: "候选人推荐表.md", active: "tuiJianBiao" },
+  { tpl: "doc", out: "ziJianBiao.html", title: "候选人自荐表", icon: "📝", docx: "候选人自荐表.docx", md: "候选人自荐表.md", active: "ziJianBiao" },
   { tpl: "doc", out: "xuanpiao.html", title: "选票模板", icon: "🗳️", docx: "选票模板.docx", md: "选票模板.md", active: "xuanpiao" },
   { tpl: "doc", out: "shenfenGongshi.html", title: "业主身份公示模板", icon: "👤", docx: "附件B-业主身份公示模板.docx", md: "附件B-业主身份公示模板.md", active: "shenfenGongshi" },
-  { tpl: "doc", out: "baomingbiao.html", title: "候选人报名表模板", icon: "📝", docx: "附件C-候选人报名表模板.docx", md: "附件C-候选人报名表模板.md", active: "baomingbiao" },
   { tpl: "doc", out: "zongheGongshi.html", title: "综合公示模板", icon: "📢", docx: "综合公示模板.docx", md: "综合公示模板.md", active: "zongheGongshi" },
 ];
 
