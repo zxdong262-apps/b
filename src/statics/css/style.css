@@ -654,6 +654,25 @@ a[role="button"].outline.secondary:hover {
   margin: 0;
 }
 
+/* ====== Call to Action Note ====== */
+.cta-note {
+  background: var(--c-success-bg);
+  border-left: 4px solid var(--c-success);
+  border-radius: 0 var(--radius) var(--radius) 0;
+  padding: 1rem 1.25rem;
+}
+
+.cta-note h3 {
+  margin-bottom: 0.5rem;
+  font-size: 1rem;
+}
+
+.cta-note p {
+  font-size: 0.9rem;
+  color: var(--c-text-2);
+  margin: 0 0 0.75rem;
+}
+
 /* ====== Footer ====== */
 .site-footer {
   background: var(--c-primary-dk);

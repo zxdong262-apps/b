@@ -12,8 +12,17 @@ block content
   section
     h2 📋 筹备进度总览
     .progress-bar-wrapper
-      .progress-bar(style="--progress: 57%;")
-        span 4 / 7 项已完成
+      .progress-bar(style="--progress: 43%;")
+        span 3 / 7 项已完成
+
+  //- Call to action
+  section
+    article.cta-note
+      h3 📣 综合公示进行中，欢迎业主参选！
+      p 综合公示期为 <strong>7月31日 ~ 8月14日（共15日）</strong>。公示结束后（<strong>8月17日</strong>起）正式接受候选人报名。有意参选业主委员会的业主，现在就可以开始准备报名材料。
+      nav
+        a(href=base + "documents/候选人自荐表.docx" role="button" download) ⬇ 下载自荐表
+        a(href=base + "documents/候选人推荐表.docx" role="button" class="outline" download) ⬇ 下载推荐表
 
   //- 7 Duties
   section
@@ -21,12 +30,14 @@ block content
 
     details(open)
       summary
-        span.status.status-done ✅ 已完成
+        span.status.status-wip 🔄 进行中
         | 确认并公示业主身份、人数及面积
       .detail-body
-        p 已完成业主身份核实，总户数 650 户，总建筑面积 80759.98 ㎡。已在小区公告栏公示7日，无异议。
+        p 已完成业主身份核实，总户数 650 户，总建筑面积 80759.98 ㎡。业主身份公示<strong>包含在综合公示中</strong>（7月31日 ~ 8月14日）同步进行，目前公示中。
+        nav
+          a(href=base + "zongheGongshi.html" role="button" class="outline") 查看综合公示
         footer
-          small 完成时间：____年____月____日 &nbsp;|&nbsp; 负责人：________
+          small 预计完成：2026年8月14日 &nbsp;|&nbsp; 负责人：________
 
     details(open)
       summary
@@ -65,7 +76,7 @@ block content
         span.status.status-wip 🔄 进行中
         | 制定候选人产生办法，确定候选人名单
       .detail-body
-        p 候选人产生办法已制定，报名进行中。
+        p 候选人产生办法及推选公告已发布。综合公示进行中，<strong>公示结束后（8月17日）开始接受报名</strong>，请有意参选的业主提前准备材料。
         nav
           a(href=base + "houxuanrenBanfa.html" role="button" class="outline") 查看候选人产生办法
           a(href=base + "tuiXuanGonggao.html" role="button" class="outline") 查看推选公告
@@ -103,16 +114,20 @@ block content
           th 状态
       tbody
         tr
-          td 综合公示（≥7日）
-          td 7月15日 ~ 7月21日
+          td 综合公示（共15日）
+          td 7月31日 ~ 8月14日
           td: span.status.status-wip 进行中
         tr
-          td 异议处理截止
-          td 7月21日
+          td 候选人报名（自荐/推荐）
+          td 8月17日 ~ 8月21日
+          td: span.status.status-todo 待开始
+        tr
+          td 异议受理截止
+          td 8月14日（公示期内）
           td: span.status.status-todo 待定
         tr
           td 首次业主大会会议
-          td: strong 8月24日
+          td: strong 8月24日（星期一）
           td: span.status.status-todo 待定
 
   //- Legal note
