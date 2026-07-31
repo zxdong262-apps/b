@@ -12,17 +12,18 @@ block content
   section
     h2 📋 筹备进度总览
     .progress-bar-wrapper
-      .progress-bar(style="--progress: 43%;")
-        span 3 / 7 项已完成
+      .progress-bar(style="--progress: 57%;")
+        span 4 / 7 项已完成
 
   //- Call to action
   section
     article.cta-note
       h3 📣 综合公示进行中，欢迎业主参选！
       p 综合公示期为 <strong>7月31日 ~ 8月14日（共15日）</strong>。公示结束后（<strong>8月17日</strong>起）正式接受候选人报名。有意参选业主委员会的业主，现在就可以开始准备报名材料。
-      nav
+      nav.cta-actions
         a(href=base + "documents/候选人自荐表.docx" role="button" download) ⬇ 下载自荐表
-        a(href=base + "documents/候选人推荐表.docx" role="button" class="outline" download) ⬇ 下载推荐表
+        a(href=base + "xuanjubanfa.html") 选举办法
+        a(href=base + "documents/候选人推荐表.docx" download) ⬇ 下载推荐表
 
   //- 7 Duties
   section
@@ -62,14 +63,14 @@ block content
 
     details(open)
       summary
-        span.status.status-wip 🔄 进行中
+        span.status.status-done ✅ 已完成
         | 确定首次业主大会会议表决规则
       .detail-body
-        p 表决规则草案已完成，待筹备组最终审议。
+        p 表决规则已制定完成，经筹备组审议通过。
         nav
           a(href=base + "biaojueGuize.html" role="button" class="outline") 查看表决规则
         footer
-          small 预计完成：____年____月____日 &nbsp;|&nbsp; 负责人：________
+          small 完成时间：____年____月____日 &nbsp;|&nbsp; 负责人：________
 
     details(open)
       summary
