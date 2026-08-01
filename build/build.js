@@ -34,6 +34,7 @@ const DOCS = [
   { tpl: "doc", out: "xuanpiao.html", title: "选票模板", icon: "🗳️", docx: "选票模板.docx", md: "选票模板.md", active: "xuanpiao" },
   { tpl: "doc", out: "shenfenGongshi.html", title: "业主身份公示模板", icon: "👤", docx: "附件B-业主身份公示模板.docx", md: "附件B-业主身份公示模板.md", active: "shenfenGongshi" },
   { tpl: "doc", out: "zongheGongshi.html", title: "综合公示模板", icon: "📢", docx: "综合公示模板.docx", md: "综合公示模板.md", active: "zongheGongshi" },
+  { tpl: "doc", out: "shouquanWeituo.html", title: "授权委托书（业主授权参选业委会）", icon: "📄", docx: "授权委托书（业主授权参选业委会）.docx", md: "授权委托书.md", active: "shouquanWeituo" },
 ];
 
 // Clean & create public/

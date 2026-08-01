@@ -229,12 +229,32 @@ function buildDoc3() {
   return new Document({ sections: [{ children }] });
 }
 
+// ============================================================
+// 4. 授权委托书（房屋产权人授权他人全权处理业委会事务）
+// ============================================================
+function buildDoc4() {
+  const b = (n) => blank(n);
+  const children = [
+    new Paragraph({ alignment: AlignmentType.CENTER, spacing: { after: 360 }, children: [new TextRun({ text: "授权委托书", bold: true, size: 36 })] }),
+    new Paragraph({ spacing: { after: 200 }, children: [new TextRun({ text: `本人（委托人）${b(12)}（身份证号：${b(20)}），系双阳区碧桂园江山名筑小区 ${b(4)} 栋 ${b(3)} 单元 ${b(3)} 号房屋产权人，依法享有该房屋对应的业主权利。现全权委托 ${b(12)}（身份证号：${b(20)}）作为本人的代理人，代为处理与业主委员会相关的一切事务，包括但不限于：`, size: 24 })] }),
+    new Paragraph({ spacing: { after: 120 }, children: [new TextRun({ text: "出席业主大会会议，代为行使表决权、选举权，签收并填写会议文件及选票，代为行使本人享有的其他业主权利。", size: 24 })] }),
+    new Paragraph({ spacing: { after: 200 }, children: [new TextRun({ text: "受托人在委托范围内所签署的文件及作出的意思表示，本人均予以承认，并承担相应法律责任。", size: 24 })] }),
+    new Paragraph({ spacing: { after: 200 }, children: [new TextRun({ text: "本委托书一式一份，自委托人签字之日起生效。", size: 24 })] }),
+    new Paragraph({ spacing: { before: 480 }, children: [new TextRun({ text: `委托人（签字）：${b(20)}`, size: 24 })] }),
+    new Paragraph({ children: [new TextRun({ text: `日期：${b(6)}年${b(3)}月${b(3)}日`, size: 24 })] }),
+    new Paragraph({ spacing: { before: 360 }, children: [new TextRun({ text: `受托人（签字）：${b(20)}`, size: 24 })] }),
+    new Paragraph({ children: [new TextRun({ text: `日期：${b(6)}年${b(3)}月${b(3)}日`, size: 24 })] }),
+  ];
+  return new Document({ sections: [{ children }] });
+}
+
 // Generate all
 async function main() {
   const docs = [
     { fn: buildDoc1, name: "附件B-业主身份公示模板.docx" },
     { fn: buildDoc2, name: "附件C-候选人报名表模板.docx" },
     { fn: buildDoc3, name: "综合公示模板.docx" },
+    { fn: buildDoc4, name: "授权委托书（业主授权参选业委会）.docx" },
   ];
   for (const d of docs) {
     const buf = await Packer.toBuffer(d.fn());
