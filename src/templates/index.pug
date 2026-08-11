@@ -12,33 +12,33 @@ block content
   section
     h2 📋 筹备进度总览
     .progress-bar-wrapper
-      .progress-bar(style="--progress: 57%;")
-        span 4 / 7 项已完成
+      .progress-bar(style="--progress: 71%;")
+        span 5 / 7 项已完成
 
   //- Call to action
   section
     article.cta-note
-      h3 📣 综合公示进行中，欢迎业主参选！
-      p 综合公示期为 <strong>7月31日 ~ 8月14日（共15日）</strong>。公示结束后（<strong>8月17日</strong>起）正式接受候选人报名。有意参选业主委员会的业主，现在就可以开始准备报名材料。报名截止日期2026年8月10日
+      h3 📣 候选人公示进行中，欢迎业主监督！
+      p 综合公示与候选人报名已顺利完成。当前进入<strong>候选人公示阶段</strong>，候选人名单正在公示中，业主可进行监督并提出异议。首次业主大会会议定于 <strong>8月18日 ~ 8月20日（共3天）</strong>，业主可在三天内参与投票。
       nav.cta-actions
-        a(href=base + "documents/候选人自荐表.docx" role="button" download) ⬇ 下载自荐表
-        a(href=base + "xuanjubanfa.html") 选举办法
-        a(href=base + "documents/候选人推荐表.docx" download) ⬇ 下载推荐表
+        a(href=base + "documents/xuanpiao.pdf" role="button" download) ⬇ 下载选票
+        a(href=base + "documents/wts.docx" role="button" download) ⬇ 下载委托书
+        a(href=base + "download.html") 全部文件
 
   //- 7 Duties
   section
     h2 七项筹备职责
 
-    details(open)
+    details
       summary
-        span.status.status-wip 🔄 进行中
+        span.status.status-done ✅ 已完成
         | 确认并公示业主身份、人数及面积
       .detail-body
-        p 已完成业主身份核实，总户数 650 户，总建筑面积 80759.98 ㎡。业主身份公示<strong>包含在综合公示中</strong>（7月31日 ~ 8月14日）同步进行，目前公示中。
+        p 已完成业主身份核实，总户数 650 户，总建筑面积 80759.98 ㎡。业主身份公示<strong>包含在综合公示中</strong>（7月31日 ~ 8月14日）已顺利完成。
         nav
           a(href=base + "zongheGongshi.html" role="button" class="outline") 查看综合公示
         footer
-          small 预计完成：2026年8月14日 &nbsp;|&nbsp; 负责人：________
+          small 完成时间：2026年8月14日 &nbsp;|&nbsp; 负责人：________
 
     details(open)
       summary
@@ -77,7 +77,7 @@ block content
         span.status.status-wip 🔄 进行中
         | 制定候选人产生办法，确定候选人名单
       .detail-body
-        p 候选人产生办法及推选公告已发布。综合公示进行中，<strong>公示结束后（8月7日）开始接受报名</strong>，请有意参选的业主提前准备材料。
+        p 候选人产生办法及推选公告已发布，候选人报名（8月7日 ~ 8月10日）已顺利完成，当前进入<strong>候选人公示阶段</strong>（公示期7日，8月11日 ~ 8月17日），候选人名单正在公示中，业主可进行监督。
         nav
           a(href=base + "houxuanrenBanfa.html" role="button" class="outline") 查看候选人产生办法
           a(href=base + "tuiXuanGonggao.html" role="button" class="outline") 查看推选公告
@@ -95,12 +95,12 @@ block content
         footer
           small 完成时间：____年____月____日 &nbsp;|&nbsp; 负责人：________
 
-    details
+    details(open)
       summary
-        span.status.status-todo ⏳ 待开始
+        span.status.status-wip 🔄 进行中
         | 完成召开首次业主大会会议的其他准备工作
       .detail-body
-        p 包括：会务物资准备、选票印制、工作人员分工、会议通知发放等。
+        p 包括：会务物资准备、选票印制、工作人员分工、会议通知发放等。选票已印制完成（可下载），会务物资与会议通知正在准备中。
         footer
           small 预计完成：____年____月____日 &nbsp;|&nbsp; 负责人：________
 
@@ -117,19 +117,27 @@ block content
         tr
           td 综合公示（共15日）
           td 7月31日 ~ 8月14日
-          td: span.status.status-wip 进行中
+          td: span.status.status-done 已完成
         tr
           td 候选人报名（自荐/推荐）
           td 8月7日 ~ 8月10日
-          td: span.status.status-todo 待开始
+          td: span.status.status-done 已完成
+        tr
+          td 候选人公示（共7日）
+          td 8月11日 ~ 8月17日
+          td: span.status.status-wip 进行中
         tr
           td 异议受理截止
-          td 8月14日（公示期内）
-          td: span.status.status-todo 待定
+          td 8月17日（公示期内）
+          td: span.status.status-wip 进行中
         tr
-          td 首次业主大会会议
-          td: strong 8月24日（星期一）
-          td: span.status.status-todo 待定
+          td 首次业主大会会议（投票期）
+          td: strong 8月18日 ~ 8月20日（共3天）
+          td: span.status.status-todo 待开始
+        tr
+          td 业主参与投票
+          td 会议期间三天内
+          td: span.status.status-todo 待开始
 
   //- Legal note
   section
