@@ -65,6 +65,29 @@ for (const doc of DOCS) {
   console.log(`  ${doc.out}`);
 }
 
+// Compile count (voting stats) pages from data
+import { readdirSync as _rd } from "fs";
+const VOTING = join(ROOT, "src/data/voting.json");
+const voting = JSON.parse(readFileSync(VOTING, "utf-8"));
+const COUNT_DIR = join(PUBLIC, "count");
+mkdirSync(COUNT_DIR, { recursive: true });
+// remove stale hand-generated count html so copyDir below doesn't overwrite
+if (existsSync(join(STATICS, "count"))) {
+  for (const f of _rd(join(STATICS, "count"))) {
+    if (f.endsWith(".html")) rmSync(join(STATICS, "count", f));
+  }
+}
+const countIndexHtml = compileFile(join(TEMPLATES, "count.pug"))({ ...common, base: "../", title: "投票统计", active: "count", voting });
+writeFileSync(join(COUNT_DIR, "index.html"), countIndexHtml);
+console.log("  count/index.html");
+for (const b of voting.buildings) {
+  const html = compileFile(join(TEMPLATES, "countBuilding.pug"))({
+    ...common, base: "../", title: b.name + " 投票明细", active: "count", building: b, statTime: voting.statTime,
+  });
+  writeFileSync(join(COUNT_DIR, b.slug + ".html"), html);
+  console.log(`  count/${b.slug}.html`);
+}
+
 // Copy static assets (css, js, documents, favicon)
 const SKIP_EXT = new Set([".md"]);
 function copyDir(src, dest) {

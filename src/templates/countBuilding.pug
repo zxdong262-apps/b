@@ -1,0 +1,80 @@
+extends layout
+
+block content
+  include partials/countStyle.pug
+
+  - const b = building
+  - const h = b.households
+  - const v = b.voted
+  - const rate = h ? (v / h * 100).toFixed(2) : "0.00"
+
+  //- Breadcrumb
+  nav.doc-breadcrumb
+    a(href=base + "count/index.html") ← 返回投票统计总览
+
+  section
+    h2 #{b.name} 投票明细
+      if b.isShop
+        span.cv-tag 门市
+    p(style="color:var(--c-text-2);font-size:.85rem;margin-top:-.4rem") 统计时间：#{statTime}
+
+    .cv-cards
+      .cv-card
+        .cv-label 本栋户数
+        .cv-val= h
+      .cv-card.ok
+        .cv-label 已投票
+        .cv-val= v
+      .cv-card.no
+        .cv-label 未投票
+        .cv-val= h - v
+      .cv-card.big
+        .cv-label 投票比例
+        .cv-val #{rate}%
+
+    .cv-donut-block
+      +donut(v, h, 150, 18, rate + "%")
+      .cv-legend
+        div
+          i(style="background:var(--c-success)")
+          | 已投票&nbsp;
+          b= v
+          | &nbsp;户
+        div
+          i(style="background:#e3e8ef")
+          | 未投票&nbsp;
+          b= h - v
+          | &nbsp;户
+        div(style="margin-top:6px;color:var(--c-text-2)")
+          | 本栋投票比例：&nbsp;
+          b(style="color:var(--c-primary)")= rate + "%"
+
+    button.cv-btn(onclick="toggleUnvoted(this)") 只看未投票
+
+  section
+    h2 明细列表
+    .table-scroll
+      table
+        thead
+          tr
+            th 序号
+            th 房屋名称
+            th 建筑面积
+            th 是否投票
+        tbody
+          each row in b.rows
+            tr(class=(row.voted ? "cv-r-v" : "cv-r-un"))
+              td= row.num
+              td= row.hn
+              td(style="font-variant-numeric:tabular-nums;color:var(--c-text-2)")= row.area.toFixed(2)
+              if row.voted
+                td(style="text-align:center" class="cv-ok") 已投票
+              else
+                td(style="text-align:center" class="cv-no") 未投票
+
+  script.
+    function toggleUnvoted(btn) {
+      document.body.classList.toggle('only-unvoted');
+      var on = document.body.classList.contains('only-unvoted');
+      btn.textContent = on ? '显示全部' : '只看未投票';
+    }

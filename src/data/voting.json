@@ -1,0 +1,4017 @@
+{
+  "statTime": "2026.08.19",
+  "total": {
+    "households": 650,
+    "voted": 212
+  },
+  "buildings": [
+    {
+      "name": "001栋",
+      "isShop": false,
+      "households": 108,
+      "voted": 45,
+      "rows": [
+        {
+          "num": 1,
+          "hn": "001栋1-1001",
+          "area": 84.59,
+          "voted": false
+        },
+        {
+          "num": 2,
+          "hn": "001栋1-1002",
+          "area": 100.92,
+          "voted": true
+        },
+        {
+          "num": 3,
+          "hn": "001栋1-101",
+          "area": 87.1,
+          "voted": true
+        },
+        {
+          "num": 4,
+          "hn": "001栋1-102",
+          "area": 103.43,
+          "voted": true
+        },
+        {
+          "num": 5,
+          "hn": "001栋1-1101",
+          "area": 84.59,
+          "voted": true
+        },
+        {
+          "num": 6,
+          "hn": "001栋1-1102",
+          "area": 100.92,
+          "voted": true
+        },
+        {
+          "num": 7,
+          "hn": "001栋1-1201",
+          "area": 84.59,
+          "voted": true
+        },
+        {
+          "num": 8,
+          "hn": "001栋1-1202",
+          "area": 100.92,
+          "voted": false
+        },
+        {
+          "num": 9,
+          "hn": "001栋1-1301",
+          "area": 84.59,
+          "voted": true
+        },
+        {
+          "num": 10,
+          "hn": "001栋1-1302",
+          "area": 100.92,
+          "voted": true
+        },
+        {
+          "num": 11,
+          "hn": "001栋1-1401",
+          "area": 84.59,
+          "voted": false
+        },
+        {
+          "num": 12,
+          "hn": "001栋1-1402",
+          "area": 100.92,
+          "voted": true
+        },
+        {
+          "num": 13,
+          "hn": "001栋1-1501",
+          "area": 84.59,
+          "voted": false
+        },
+        {
+          "num": 14,
+          "hn": "001栋1-1502",
+          "area": 100.92,
+          "voted": false
+        },
+        {
+          "num": 15,
+          "hn": "001栋1-1601",
+          "area": 84.59,
+          "voted": false
+        },
+        {
+          "num": 16,
+          "hn": "001栋1-1602",
+          "area": 100.92,
+          "voted": true
+        },
+        {
+          "num": 17,
+          "hn": "001栋1-1701",
+          "area": 84.59,
+          "voted": false
+        },
+        {
+          "num": 18,
+          "hn": "001栋1-1702",
+          "area": 100.92,
+          "voted": false
+        },
+        {
+          "num": 19,
+          "hn": "001栋1-1801",
+          "area": 84.59,
+          "voted": false
+        },
+        {
+          "num": 20,
+          "hn": "001栋1-1802",
+          "area": 100.92,
+          "voted": true
+        },
+        {
+          "num": 21,
+          "hn": "001栋1-201",
+          "area": 84.59,
+          "voted": false
+        },
+        {
+          "num": 22,
+          "hn": "001栋1-202",
+          "area": 100.92,
+          "voted": true
+        },
+        {
+          "num": 23,
+          "hn": "001栋1-301",
+          "area": 84.59,
+          "voted": false
+        },
+        {
+          "num": 24,
+          "hn": "001栋1-302",
+          "area": 100.92,
+          "voted": false
+        },
+        {
+          "num": 25,
+          "hn": "001栋1-401",
+          "area": 84.59,
+          "voted": true
+        },
+        {
+          "num": 26,
+          "hn": "001栋1-402",
+          "area": 100.92,
+          "voted": false
+        },
+        {
+          "num": 27,
+          "hn": "001栋1-501",
+          "area": 84.59,
+          "voted": true
+        },
+        {
+          "num": 28,
+          "hn": "001栋1-502",
+          "area": 100.92,
+          "voted": true
+        },
+        {
+          "num": 29,
+          "hn": "001栋1-601",
+          "area": 84.59,
+          "voted": true
+        },
+        {
+          "num": 30,
+          "hn": "001栋1-602",
+          "area": 100.92,
+          "voted": false
+        },
+        {
+          "num": 31,
+          "hn": "001栋1-701",
+          "area": 84.59,
+          "voted": false
+        },
+        {
+          "num": 32,
+          "hn": "001栋1-702",
+          "area": 100.92,
+          "voted": false
+        },
+        {
+          "num": 33,
+          "hn": "001栋1-801",
+          "area": 84.59,
+          "voted": false
+        },
+        {
+          "num": 34,
+          "hn": "001栋1-802",
+          "area": 100.92,
+          "voted": false
+        },
+        {
+          "num": 35,
+          "hn": "001栋1-901",
+          "area": 84.59,
+          "voted": false
+        },
+        {
+          "num": 36,
+          "hn": "001栋1-902",
+          "area": 100.92,
+          "voted": true
+        },
+        {
+          "num": 37,
+          "hn": "001栋2-1003",
+          "area": 100.92,
+          "voted": false
+        },
+        {
+          "num": 38,
+          "hn": "001栋2-1004",
+          "area": 83.75,
+          "voted": false
+        },
+        {
+          "num": 39,
+          "hn": "001栋2-103",
+          "area": 103.43,
+          "voted": true
+        },
+        {
+          "num": 40,
+          "hn": "001栋2-104",
+          "area": 86.26,
+          "voted": true
+        },
+        {
+          "num": 41,
+          "hn": "001栋2-1103",
+          "area": 100.92,
+          "voted": true
+        },
+        {
+          "num": 42,
+          "hn": "001栋2-1104",
+          "area": 83.75,
+          "voted": false
+        },
+        {
+          "num": 43,
+          "hn": "001栋2-1203",
+          "area": 100.92,
+          "voted": true
+        },
+        {
+          "num": 44,
+          "hn": "001栋2-1204",
+          "area": 83.75,
+          "voted": true
+        },
+        {
+          "num": 45,
+          "hn": "001栋2-1303",
+          "area": 100.92,
+          "voted": false
+        },
+        {
+          "num": 46,
+          "hn": "001栋2-1304",
+          "area": 83.75,
+          "voted": true
+        },
+        {
+          "num": 47,
+          "hn": "001栋2-1403",
+          "area": 100.92,
+          "voted": false
+        },
+        {
+          "num": 48,
+          "hn": "001栋2-1404",
+          "area": 83.75,
+          "voted": false
+        },
+        {
+          "num": 49,
+          "hn": "001栋2-1503",
+          "area": 100.92,
+          "voted": true
+        },
+        {
+          "num": 50,
+          "hn": "001栋2-1504",
+          "area": 83.75,
+          "voted": false
+        },
+        {
+          "num": 51,
+          "hn": "001栋2-1603",
+          "area": 100.92,
+          "voted": false
+        },
+        {
+          "num": 52,
+          "hn": "001栋2-1604",
+          "area": 83.75,
+          "voted": false
+        },
+        {
+          "num": 53,
+          "hn": "001栋2-1703",
+          "area": 100.92,
+          "voted": false
+        },
+        {
+          "num": 54,
+          "hn": "001栋2-1704",
+          "area": 83.75,
+          "voted": false
+        },
+        {
+          "num": 55,
+          "hn": "001栋2-1803",
+          "area": 100.92,
+          "voted": true
+        },
+        {
+          "num": 56,
+          "hn": "001栋2-1804",
+          "area": 83.75,
+          "voted": false
+        },
+        {
+          "num": 57,
+          "hn": "001栋2-203",
+          "area": 100.92,
+          "voted": true
+        },
+        {
+          "num": 58,
+          "hn": "001栋2-204",
+          "area": 83.75,
+          "voted": false
+        },
+        {
+          "num": 59,
+          "hn": "001栋2-303",
+          "area": 100.92,
+          "voted": false
+        },
+        {
+          "num": 60,
+          "hn": "001栋2-304",
+          "area": 83.75,
+          "voted": true
+        },
+        {
+          "num": 61,
+          "hn": "001栋2-403",
+          "area": 100.92,
+          "voted": false
+        },
+        {
+          "num": 62,
+          "hn": "001栋2-404",
+          "area": 83.75,
+          "voted": true
+        },
+        {
+          "num": 63,
+          "hn": "001栋2-503",
+          "area": 100.92,
+          "voted": false
+        },
+        {
+          "num": 64,
+          "hn": "001栋2-504",
+          "area": 83.75,
+          "voted": false
+        },
+        {
+          "num": 65,
+          "hn": "001栋2-603",
+          "area": 100.92,
+          "voted": true
+        },
+        {
+          "num": 66,
+          "hn": "001栋2-604",
+          "area": 83.75,
+          "voted": true
+        },
+        {
+          "num": 67,
+          "hn": "001栋2-703",
+          "area": 100.92,
+          "voted": false
+        },
+        {
+          "num": 68,
+          "hn": "001栋2-704",
+          "area": 83.75,
+          "voted": false
+        },
+        {
+          "num": 69,
+          "hn": "001栋2-803",
+          "area": 100.92,
+          "voted": true
+        },
+        {
+          "num": 70,
+          "hn": "001栋2-804",
+          "area": 83.75,
+          "voted": false
+        },
+        {
+          "num": 71,
+          "hn": "001栋2-903",
+          "area": 100.92,
+          "voted": true
+        },
+        {
+          "num": 72,
+          "hn": "001栋2-904",
+          "area": 83.75,
+          "voted": false
+        },
+        {
+          "num": 73,
+          "hn": "001栋3-1005",
+          "area": 100.92,
+          "voted": true
+        },
+        {
+          "num": 74,
+          "hn": "001栋3-1006",
+          "area": 84.33,
+          "voted": true
+        },
+        {
+          "num": 75,
+          "hn": "001栋3-105",
+          "area": 103.43,
+          "voted": true
+        },
+        {
+          "num": 76,
+          "hn": "001栋3-106",
+          "area": 86.84,
+          "voted": true
+        },
+        {
+          "num": 77,
+          "hn": "001栋3-1105",
+          "area": 100.92,
+          "voted": false
+        },
+        {
+          "num": 78,
+          "hn": "001栋3-1106",
+          "area": 84.33,
+          "voted": false
+        },
+        {
+          "num": 79,
+          "hn": "001栋3-1205",
+          "area": 100.92,
+          "voted": false
+        },
+        {
+          "num": 80,
+          "hn": "001栋3-1206",
+          "area": 84.33,
+          "voted": false
+        },
+        {
+          "num": 81,
+          "hn": "001栋3-1305",
+          "area": 100.92,
+          "voted": true
+        },
+        {
+          "num": 82,
+          "hn": "001栋3-1306",
+          "area": 84.33,
+          "voted": true
+        },
+        {
+          "num": 83,
+          "hn": "001栋3-1405",
+          "area": 100.92,
+          "voted": true
+        },
+        {
+          "num": 84,
+          "hn": "001栋3-1406",
+          "area": 84.33,
+          "voted": false
+        },
+        {
+          "num": 85,
+          "hn": "001栋3-1505",
+          "area": 100.92,
+          "voted": false
+        },
+        {
+          "num": 86,
+          "hn": "001栋3-1506",
+          "area": 84.33,
+          "voted": false
+        },
+        {
+          "num": 87,
+          "hn": "001栋3-1605",
+          "area": 100.92,
+          "voted": true
+        },
+        {
+          "num": 88,
+          "hn": "001栋3-1606",
+          "area": 84.33,
+          "voted": false
+        },
+        {
+          "num": 89,
+          "hn": "001栋3-1705",
+          "area": 100.92,
+          "voted": true
+        },
+        {
+          "num": 90,
+          "hn": "001栋3-1706",
+          "area": 84.33,
+          "voted": false
+        },
+        {
+          "num": 91,
+          "hn": "001栋3-1805",
+          "area": 100.92,
+          "voted": false
+        },
+        {
+          "num": 92,
+          "hn": "001栋3-1806",
+          "area": 84.33,
+          "voted": false
+        },
+        {
+          "num": 93,
+          "hn": "001栋3-205",
+          "area": 100.92,
+          "voted": false
+        },
+        {
+          "num": 94,
+          "hn": "001栋3-206",
+          "area": 84.33,
+          "voted": false
+        },
+        {
+          "num": 95,
+          "hn": "001栋3-305",
+          "area": 100.92,
+          "voted": true
+        },
+        {
+          "num": 96,
+          "hn": "001栋3-306",
+          "area": 84.33,
+          "voted": false
+        },
+        {
+          "num": 97,
+          "hn": "001栋3-405",
+          "area": 100.92,
+          "voted": false
+        },
+        {
+          "num": 98,
+          "hn": "001栋3-406",
+          "area": 84.33,
+          "voted": true
+        },
+        {
+          "num": 99,
+          "hn": "001栋3-505",
+          "area": 100.92,
+          "voted": true
+        },
+        {
+          "num": 100,
+          "hn": "001栋3-506",
+          "area": 84.33,
+          "voted": false
+        },
+        {
+          "num": 101,
+          "hn": "001栋3-605",
+          "area": 100.92,
+          "voted": false
+        },
+        {
+          "num": 102,
+          "hn": "001栋3-606",
+          "area": 84.33,
+          "voted": false
+        },
+        {
+          "num": 103,
+          "hn": "001栋3-705",
+          "area": 100.92,
+          "voted": false
+        },
+        {
+          "num": 104,
+          "hn": "001栋3-706",
+          "area": 84.33,
+          "voted": true
+        },
+        {
+          "num": 105,
+          "hn": "001栋3-805",
+          "area": 100.92,
+          "voted": false
+        },
+        {
+          "num": 106,
+          "hn": "001栋3-806",
+          "area": 84.33,
+          "voted": false
+        },
+        {
+          "num": 107,
+          "hn": "001栋3-905",
+          "area": 100.92,
+          "voted": false
+        },
+        {
+          "num": 108,
+          "hn": "001栋3-906",
+          "area": 84.33,
+          "voted": false
+        }
+      ],
+      "slug": "001"
+    },
+    {
+      "name": "002栋",
+      "isShop": false,
+      "households": 72,
+      "voted": 28,
+      "rows": [
+        {
+          "num": 109,
+          "hn": "002栋1-1001",
+          "area": 84.59,
+          "voted": false
+        },
+        {
+          "num": 110,
+          "hn": "002栋1-1002",
+          "area": 100.58,
+          "voted": true
+        },
+        {
+          "num": 111,
+          "hn": "002栋1-101",
+          "area": 86.82,
+          "voted": true
+        },
+        {
+          "num": 112,
+          "hn": "002栋1-102",
+          "area": 103.08,
+          "voted": true
+        },
+        {
+          "num": 113,
+          "hn": "002栋1-1101",
+          "area": 84.59,
+          "voted": false
+        },
+        {
+          "num": 114,
+          "hn": "002栋1-1102",
+          "area": 100.58,
+          "voted": false
+        },
+        {
+          "num": 115,
+          "hn": "002栋1-1201",
+          "area": 84.59,
+          "voted": false
+        },
+        {
+          "num": 116,
+          "hn": "002栋1-1202",
+          "area": 100.58,
+          "voted": false
+        },
+        {
+          "num": 117,
+          "hn": "002栋1-1301",
+          "area": 84.59,
+          "voted": false
+        },
+        {
+          "num": 118,
+          "hn": "002栋1-1302",
+          "area": 100.58,
+          "voted": false
+        },
+        {
+          "num": 119,
+          "hn": "002栋1-1401",
+          "area": 84.59,
+          "voted": true
+        },
+        {
+          "num": 120,
+          "hn": "002栋1-1402",
+          "area": 100.58,
+          "voted": true
+        },
+        {
+          "num": 121,
+          "hn": "002栋1-1501",
+          "area": 84.59,
+          "voted": false
+        },
+        {
+          "num": 122,
+          "hn": "002栋1-1502",
+          "area": 100.58,
+          "voted": false
+        },
+        {
+          "num": 123,
+          "hn": "002栋1-1601",
+          "area": 84.59,
+          "voted": true
+        },
+        {
+          "num": 124,
+          "hn": "002栋1-1602",
+          "area": 100.58,
+          "voted": false
+        },
+        {
+          "num": 125,
+          "hn": "002栋1-1701",
+          "area": 84.59,
+          "voted": false
+        },
+        {
+          "num": 126,
+          "hn": "002栋1-1702",
+          "area": 100.58,
+          "voted": true
+        },
+        {
+          "num": 127,
+          "hn": "002栋1-1801",
+          "area": 84.59,
+          "voted": false
+        },
+        {
+          "num": 128,
+          "hn": "002栋1-1802",
+          "area": 100.58,
+          "voted": true
+        },
+        {
+          "num": 129,
+          "hn": "002栋1-201",
+          "area": 84.59,
+          "voted": false
+        },
+        {
+          "num": 130,
+          "hn": "002栋1-202",
+          "area": 100.58,
+          "voted": true
+        },
+        {
+          "num": 131,
+          "hn": "002栋1-301",
+          "area": 84.59,
+          "voted": false
+        },
+        {
+          "num": 132,
+          "hn": "002栋1-302",
+          "area": 100.58,
+          "voted": true
+        },
+        {
+          "num": 133,
+          "hn": "002栋1-401",
+          "area": 84.59,
+          "voted": true
+        },
+        {
+          "num": 134,
+          "hn": "002栋1-402",
+          "area": 100.58,
+          "voted": true
+        },
+        {
+          "num": 135,
+          "hn": "002栋1-501",
+          "area": 84.59,
+          "voted": false
+        },
+        {
+          "num": 136,
+          "hn": "002栋1-502",
+          "area": 100.58,
+          "voted": false
+        },
+        {
+          "num": 137,
+          "hn": "002栋1-601",
+          "area": 84.59,
+          "voted": false
+        },
+        {
+          "num": 138,
+          "hn": "002栋1-602",
+          "area": 100.58,
+          "voted": false
+        },
+        {
+          "num": 139,
+          "hn": "002栋1-701",
+          "area": 84.59,
+          "voted": false
+        },
+        {
+          "num": 140,
+          "hn": "002栋1-702",
+          "area": 100.58,
+          "voted": false
+        },
+        {
+          "num": 141,
+          "hn": "002栋1-801",
+          "area": 84.59,
+          "voted": true
+        },
+        {
+          "num": 142,
+          "hn": "002栋1-802",
+          "area": 100.58,
+          "voted": true
+        },
+        {
+          "num": 143,
+          "hn": "002栋1-901",
+          "area": 84.59,
+          "voted": true
+        },
+        {
+          "num": 144,
+          "hn": "002栋1-902",
+          "area": 100.58,
+          "voted": true
+        },
+        {
+          "num": 145,
+          "hn": "002栋2-1003",
+          "area": 100.58,
+          "voted": false
+        },
+        {
+          "num": 146,
+          "hn": "002栋2-1004",
+          "area": 84.05,
+          "voted": true
+        },
+        {
+          "num": 147,
+          "hn": "002栋2-103",
+          "area": 103.08,
+          "voted": false
+        },
+        {
+          "num": 148,
+          "hn": "002栋2-104",
+          "area": 86.56,
+          "voted": false
+        },
+        {
+          "num": 149,
+          "hn": "002栋2-1103",
+          "area": 100.58,
+          "voted": false
+        },
+        {
+          "num": 150,
+          "hn": "002栋2-1104",
+          "area": 84.05,
+          "voted": false
+        },
+        {
+          "num": 151,
+          "hn": "002栋2-1203",
+          "area": 100.58,
+          "voted": false
+        },
+        {
+          "num": 152,
+          "hn": "002栋2-1204",
+          "area": 84.05,
+          "voted": true
+        },
+        {
+          "num": 153,
+          "hn": "002栋2-1303",
+          "area": 100.58,
+          "voted": true
+        },
+        {
+          "num": 154,
+          "hn": "002栋2-1304",
+          "area": 84.05,
+          "voted": false
+        },
+        {
+          "num": 155,
+          "hn": "002栋2-1403",
+          "area": 100.58,
+          "voted": true
+        },
+        {
+          "num": 156,
+          "hn": "002栋2-1404",
+          "area": 84.05,
+          "voted": true
+        },
+        {
+          "num": 157,
+          "hn": "002栋2-1503",
+          "area": 100.58,
+          "voted": false
+        },
+        {
+          "num": 158,
+          "hn": "002栋2-1504",
+          "area": 84.05,
+          "voted": true
+        },
+        {
+          "num": 159,
+          "hn": "002栋2-1603",
+          "area": 100.58,
+          "voted": false
+        },
+        {
+          "num": 160,
+          "hn": "002栋2-1604",
+          "area": 84.05,
+          "voted": true
+        },
+        {
+          "num": 161,
+          "hn": "002栋2-1703",
+          "area": 100.58,
+          "voted": false
+        },
+        {
+          "num": 162,
+          "hn": "002栋2-1704",
+          "area": 84.05,
+          "voted": false
+        },
+        {
+          "num": 163,
+          "hn": "002栋2-1803",
+          "area": 100.58,
+          "voted": false
+        },
+        {
+          "num": 164,
+          "hn": "002栋2-1804",
+          "area": 84.05,
+          "voted": false
+        },
+        {
+          "num": 165,
+          "hn": "002栋2-203",
+          "area": 100.58,
+          "voted": false
+        },
+        {
+          "num": 166,
+          "hn": "002栋2-204",
+          "area": 84.05,
+          "voted": true
+        },
+        {
+          "num": 167,
+          "hn": "002栋2-303",
+          "area": 100.58,
+          "voted": false
+        },
+        {
+          "num": 168,
+          "hn": "002栋2-304",
+          "area": 84.05,
+          "voted": false
+        },
+        {
+          "num": 169,
+          "hn": "002栋2-403",
+          "area": 100.58,
+          "voted": true
+        },
+        {
+          "num": 170,
+          "hn": "002栋2-404",
+          "area": 84.05,
+          "voted": false
+        },
+        {
+          "num": 171,
+          "hn": "002栋2-503",
+          "area": 100.58,
+          "voted": false
+        },
+        {
+          "num": 172,
+          "hn": "002栋2-504",
+          "area": 84.05,
+          "voted": false
+        },
+        {
+          "num": 173,
+          "hn": "002栋2-603",
+          "area": 100.58,
+          "voted": true
+        },
+        {
+          "num": 174,
+          "hn": "002栋2-604",
+          "area": 84.05,
+          "voted": true
+        },
+        {
+          "num": 175,
+          "hn": "002栋2-703",
+          "area": 100.58,
+          "voted": false
+        },
+        {
+          "num": 176,
+          "hn": "002栋2-704",
+          "area": 84.05,
+          "voted": false
+        },
+        {
+          "num": 177,
+          "hn": "002栋2-803",
+          "area": 100.58,
+          "voted": true
+        },
+        {
+          "num": 178,
+          "hn": "002栋2-804",
+          "area": 84.05,
+          "voted": false
+        },
+        {
+          "num": 179,
+          "hn": "002栋2-903",
+          "area": 100.58,
+          "voted": false
+        },
+        {
+          "num": 180,
+          "hn": "002栋2-904",
+          "area": 84.05,
+          "voted": false
+        }
+      ],
+      "slug": "002"
+    },
+    {
+      "name": "003栋",
+      "isShop": false,
+      "households": 40,
+      "voted": 9,
+      "rows": [
+        {
+          "num": 181,
+          "hn": "003栋1-1001",
+          "area": 94.64,
+          "voted": true
+        },
+        {
+          "num": 182,
+          "hn": "003栋1-1002",
+          "area": 112.97,
+          "voted": true
+        },
+        {
+          "num": 183,
+          "hn": "003栋1-101",
+          "area": 96.98,
+          "voted": false
+        },
+        {
+          "num": 184,
+          "hn": "003栋1-102",
+          "area": 116.07,
+          "voted": false
+        },
+        {
+          "num": 185,
+          "hn": "003栋1-201",
+          "area": 94.64,
+          "voted": true
+        },
+        {
+          "num": 186,
+          "hn": "003栋1-202",
+          "area": 112.97,
+          "voted": false
+        },
+        {
+          "num": 187,
+          "hn": "003栋1-301",
+          "area": 94.64,
+          "voted": true
+        },
+        {
+          "num": 188,
+          "hn": "003栋1-302",
+          "area": 112.97,
+          "voted": false
+        },
+        {
+          "num": 189,
+          "hn": "003栋1-401",
+          "area": 94.64,
+          "voted": false
+        },
+        {
+          "num": 190,
+          "hn": "003栋1-402",
+          "area": 112.97,
+          "voted": false
+        },
+        {
+          "num": 191,
+          "hn": "003栋1-501",
+          "area": 94.64,
+          "voted": false
+        },
+        {
+          "num": 192,
+          "hn": "003栋1-502",
+          "area": 112.97,
+          "voted": false
+        },
+        {
+          "num": 193,
+          "hn": "003栋1-601",
+          "area": 94.64,
+          "voted": true
+        },
+        {
+          "num": 194,
+          "hn": "003栋1-602",
+          "area": 112.97,
+          "voted": false
+        },
+        {
+          "num": 195,
+          "hn": "003栋1-701",
+          "area": 94.64,
+          "voted": true
+        },
+        {
+          "num": 196,
+          "hn": "003栋1-702",
+          "area": 112.97,
+          "voted": true
+        },
+        {
+          "num": 197,
+          "hn": "003栋1-801",
+          "area": 94.64,
+          "voted": false
+        },
+        {
+          "num": 198,
+          "hn": "003栋1-802",
+          "area": 112.97,
+          "voted": false
+        },
+        {
+          "num": 199,
+          "hn": "003栋1-901",
+          "area": 94.64,
+          "voted": true
+        },
+        {
+          "num": 200,
+          "hn": "003栋1-902",
+          "area": 112.97,
+          "voted": false
+        },
+        {
+          "num": 201,
+          "hn": "003栋2-1003",
+          "area": 112.97,
+          "voted": false
+        },
+        {
+          "num": 202,
+          "hn": "003栋2-1004",
+          "area": 94.64,
+          "voted": false
+        },
+        {
+          "num": 203,
+          "hn": "003栋2-103",
+          "area": 116.07,
+          "voted": false
+        },
+        {
+          "num": 204,
+          "hn": "003栋2-104",
+          "area": 96.98,
+          "voted": false
+        },
+        {
+          "num": 205,
+          "hn": "003栋2-203",
+          "area": 112.97,
+          "voted": true
+        },
+        {
+          "num": 206,
+          "hn": "003栋2-204",
+          "area": 94.64,
+          "voted": false
+        },
+        {
+          "num": 207,
+          "hn": "003栋2-303",
+          "area": 112.97,
+          "voted": false
+        },
+        {
+          "num": 208,
+          "hn": "003栋2-304",
+          "area": 94.64,
+          "voted": false
+        },
+        {
+          "num": 209,
+          "hn": "003栋2-403",
+          "area": 112.97,
+          "voted": false
+        },
+        {
+          "num": 210,
+          "hn": "003栋2-404",
+          "area": 94.64,
+          "voted": false
+        },
+        {
+          "num": 211,
+          "hn": "003栋2-503",
+          "area": 112.97,
+          "voted": false
+        },
+        {
+          "num": 212,
+          "hn": "003栋2-504",
+          "area": 94.64,
+          "voted": false
+        },
+        {
+          "num": 213,
+          "hn": "003栋2-603",
+          "area": 112.97,
+          "voted": false
+        },
+        {
+          "num": 214,
+          "hn": "003栋2-604",
+          "area": 94.64,
+          "voted": false
+        },
+        {
+          "num": 215,
+          "hn": "003栋2-703",
+          "area": 112.97,
+          "voted": false
+        },
+        {
+          "num": 216,
+          "hn": "003栋2-704",
+          "area": 94.64,
+          "voted": false
+        },
+        {
+          "num": 217,
+          "hn": "003栋2-803",
+          "area": 112.97,
+          "voted": false
+        },
+        {
+          "num": 218,
+          "hn": "003栋2-804",
+          "area": 94.64,
+          "voted": false
+        },
+        {
+          "num": 219,
+          "hn": "003栋2-903",
+          "area": 112.97,
+          "voted": false
+        },
+        {
+          "num": 220,
+          "hn": "003栋2-904",
+          "area": 94.64,
+          "voted": false
+        }
+      ],
+      "slug": "003"
+    },
+    {
+      "name": "005栋",
+      "isShop": false,
+      "households": 22,
+      "voted": 4,
+      "rows": [
+        {
+          "num": 221,
+          "hn": "005栋1-1001",
+          "area": 140.78,
+          "voted": false
+        },
+        {
+          "num": 222,
+          "hn": "005栋1-1002",
+          "area": 140.78,
+          "voted": false
+        },
+        {
+          "num": 223,
+          "hn": "005栋1-101",
+          "area": 152.24,
+          "voted": false
+        },
+        {
+          "num": 224,
+          "hn": "005栋1-102",
+          "area": 144.74,
+          "voted": false
+        },
+        {
+          "num": 225,
+          "hn": "005栋1-1101",
+          "area": 140.78,
+          "voted": false
+        },
+        {
+          "num": 226,
+          "hn": "005栋1-1102",
+          "area": 140.78,
+          "voted": false
+        },
+        {
+          "num": 227,
+          "hn": "005栋1-201",
+          "area": 140.78,
+          "voted": false
+        },
+        {
+          "num": 228,
+          "hn": "005栋1-202",
+          "area": 140.78,
+          "voted": false
+        },
+        {
+          "num": 229,
+          "hn": "005栋1-301",
+          "area": 140.78,
+          "voted": false
+        },
+        {
+          "num": 230,
+          "hn": "005栋1-302",
+          "area": 140.78,
+          "voted": true
+        },
+        {
+          "num": 231,
+          "hn": "005栋1-401",
+          "area": 140.78,
+          "voted": false
+        },
+        {
+          "num": 232,
+          "hn": "005栋1-402",
+          "area": 140.78,
+          "voted": false
+        },
+        {
+          "num": 233,
+          "hn": "005栋1-501",
+          "area": 140.78,
+          "voted": true
+        },
+        {
+          "num": 234,
+          "hn": "005栋1-502",
+          "area": 140.78,
+          "voted": true
+        },
+        {
+          "num": 235,
+          "hn": "005栋1-601",
+          "area": 140.78,
+          "voted": false
+        },
+        {
+          "num": 236,
+          "hn": "005栋1-602",
+          "area": 140.78,
+          "voted": false
+        },
+        {
+          "num": 237,
+          "hn": "005栋1-701",
+          "area": 140.78,
+          "voted": false
+        },
+        {
+          "num": 238,
+          "hn": "005栋1-702",
+          "area": 140.78,
+          "voted": false
+        },
+        {
+          "num": 239,
+          "hn": "005栋1-801",
+          "area": 140.78,
+          "voted": false
+        },
+        {
+          "num": 240,
+          "hn": "005栋1-802",
+          "area": 140.78,
+          "voted": false
+        },
+        {
+          "num": 241,
+          "hn": "005栋1-901",
+          "area": 140.78,
+          "voted": false
+        },
+        {
+          "num": 242,
+          "hn": "005栋1-902",
+          "area": 140.78,
+          "voted": true
+        }
+      ],
+      "slug": "005"
+    },
+    {
+      "name": "006栋",
+      "isShop": false,
+      "households": 107,
+      "voted": 25,
+      "rows": [
+        {
+          "num": 243,
+          "hn": "006栋1-1001",
+          "area": 84.21,
+          "voted": true
+        },
+        {
+          "num": 244,
+          "hn": "006栋1-1002",
+          "area": 100.47,
+          "voted": false
+        },
+        {
+          "num": 245,
+          "hn": "006栋1-101",
+          "area": 189.68,
+          "voted": false
+        },
+        {
+          "num": 246,
+          "hn": "006栋1-1101",
+          "area": 84.21,
+          "voted": false
+        },
+        {
+          "num": 247,
+          "hn": "006栋1-1102",
+          "area": 100.47,
+          "voted": false
+        },
+        {
+          "num": 248,
+          "hn": "006栋1-1201",
+          "area": 84.21,
+          "voted": false
+        },
+        {
+          "num": 249,
+          "hn": "006栋1-1202",
+          "area": 100.47,
+          "voted": false
+        },
+        {
+          "num": 250,
+          "hn": "006栋1-1301",
+          "area": 84.21,
+          "voted": false
+        },
+        {
+          "num": 251,
+          "hn": "006栋1-1302",
+          "area": 100.47,
+          "voted": true
+        },
+        {
+          "num": 252,
+          "hn": "006栋1-1401",
+          "area": 84.21,
+          "voted": false
+        },
+        {
+          "num": 253,
+          "hn": "006栋1-1402",
+          "area": 100.47,
+          "voted": false
+        },
+        {
+          "num": 254,
+          "hn": "006栋1-1501",
+          "area": 84.21,
+          "voted": false
+        },
+        {
+          "num": 255,
+          "hn": "006栋1-1502",
+          "area": 100.47,
+          "voted": false
+        },
+        {
+          "num": 256,
+          "hn": "006栋1-1601",
+          "area": 84.21,
+          "voted": false
+        },
+        {
+          "num": 257,
+          "hn": "006栋1-1602",
+          "area": 100.47,
+          "voted": true
+        },
+        {
+          "num": 258,
+          "hn": "006栋1-1701",
+          "area": 84.21,
+          "voted": false
+        },
+        {
+          "num": 259,
+          "hn": "006栋1-1702",
+          "area": 100.47,
+          "voted": false
+        },
+        {
+          "num": 260,
+          "hn": "006栋1-1801",
+          "area": 84.21,
+          "voted": false
+        },
+        {
+          "num": 261,
+          "hn": "006栋1-1802",
+          "area": 100.47,
+          "voted": true
+        },
+        {
+          "num": 262,
+          "hn": "006栋1-201",
+          "area": 84.21,
+          "voted": false
+        },
+        {
+          "num": 263,
+          "hn": "006栋1-202",
+          "area": 100.47,
+          "voted": false
+        },
+        {
+          "num": 264,
+          "hn": "006栋1-301",
+          "area": 84.21,
+          "voted": false
+        },
+        {
+          "num": 265,
+          "hn": "006栋1-302",
+          "area": 100.47,
+          "voted": true
+        },
+        {
+          "num": 266,
+          "hn": "006栋1-401",
+          "area": 84.21,
+          "voted": true
+        },
+        {
+          "num": 267,
+          "hn": "006栋1-402",
+          "area": 100.47,
+          "voted": false
+        },
+        {
+          "num": 268,
+          "hn": "006栋1-501",
+          "area": 84.21,
+          "voted": false
+        },
+        {
+          "num": 269,
+          "hn": "006栋1-502",
+          "area": 100.47,
+          "voted": true
+        },
+        {
+          "num": 270,
+          "hn": "006栋1-601",
+          "area": 84.21,
+          "voted": false
+        },
+        {
+          "num": 271,
+          "hn": "006栋1-602",
+          "area": 100.47,
+          "voted": true
+        },
+        {
+          "num": 272,
+          "hn": "006栋1-701",
+          "area": 84.21,
+          "voted": false
+        },
+        {
+          "num": 273,
+          "hn": "006栋1-702",
+          "area": 100.47,
+          "voted": false
+        },
+        {
+          "num": 274,
+          "hn": "006栋1-801",
+          "area": 84.21,
+          "voted": false
+        },
+        {
+          "num": 275,
+          "hn": "006栋1-802",
+          "area": 100.47,
+          "voted": true
+        },
+        {
+          "num": 276,
+          "hn": "006栋1-901",
+          "area": 84.21,
+          "voted": false
+        },
+        {
+          "num": 277,
+          "hn": "006栋1-902",
+          "area": 100.47,
+          "voted": false
+        },
+        {
+          "num": 278,
+          "hn": "006栋2-1003",
+          "area": 100.47,
+          "voted": false
+        },
+        {
+          "num": 279,
+          "hn": "006栋2-1004",
+          "area": 83.37,
+          "voted": true
+        },
+        {
+          "num": 280,
+          "hn": "006栋2-103",
+          "area": 102.97,
+          "voted": false
+        },
+        {
+          "num": 281,
+          "hn": "006栋2-104",
+          "area": 85.88,
+          "voted": false
+        },
+        {
+          "num": 282,
+          "hn": "006栋2-1103",
+          "area": 100.47,
+          "voted": false
+        },
+        {
+          "num": 283,
+          "hn": "006栋2-1104",
+          "area": 83.37,
+          "voted": true
+        },
+        {
+          "num": 284,
+          "hn": "006栋2-1203",
+          "area": 100.47,
+          "voted": false
+        },
+        {
+          "num": 285,
+          "hn": "006栋2-1204",
+          "area": 83.37,
+          "voted": false
+        },
+        {
+          "num": 286,
+          "hn": "006栋2-1303",
+          "area": 100.47,
+          "voted": false
+        },
+        {
+          "num": 287,
+          "hn": "006栋2-1304",
+          "area": 83.37,
+          "voted": true
+        },
+        {
+          "num": 288,
+          "hn": "006栋2-1403",
+          "area": 100.47,
+          "voted": false
+        },
+        {
+          "num": 289,
+          "hn": "006栋2-1404",
+          "area": 83.37,
+          "voted": false
+        },
+        {
+          "num": 290,
+          "hn": "006栋2-1503",
+          "area": 100.47,
+          "voted": true
+        },
+        {
+          "num": 291,
+          "hn": "006栋2-1504",
+          "area": 83.37,
+          "voted": false
+        },
+        {
+          "num": 292,
+          "hn": "006栋2-1603",
+          "area": 100.47,
+          "voted": false
+        },
+        {
+          "num": 293,
+          "hn": "006栋2-1604",
+          "area": 83.37,
+          "voted": true
+        },
+        {
+          "num": 294,
+          "hn": "006栋2-1703",
+          "area": 100.47,
+          "voted": false
+        },
+        {
+          "num": 295,
+          "hn": "006栋2-1704",
+          "area": 83.37,
+          "voted": false
+        },
+        {
+          "num": 296,
+          "hn": "006栋2-1803",
+          "area": 100.47,
+          "voted": false
+        },
+        {
+          "num": 297,
+          "hn": "006栋2-1804",
+          "area": 83.37,
+          "voted": false
+        },
+        {
+          "num": 298,
+          "hn": "006栋2-203",
+          "area": 100.47,
+          "voted": false
+        },
+        {
+          "num": 299,
+          "hn": "006栋2-204",
+          "area": 83.37,
+          "voted": false
+        },
+        {
+          "num": 300,
+          "hn": "006栋2-303",
+          "area": 100.47,
+          "voted": false
+        },
+        {
+          "num": 301,
+          "hn": "006栋2-304",
+          "area": 83.37,
+          "voted": false
+        },
+        {
+          "num": 302,
+          "hn": "006栋2-403",
+          "area": 100.47,
+          "voted": false
+        },
+        {
+          "num": 303,
+          "hn": "006栋2-404",
+          "area": 83.37,
+          "voted": true
+        },
+        {
+          "num": 304,
+          "hn": "006栋2-503",
+          "area": 100.47,
+          "voted": false
+        },
+        {
+          "num": 305,
+          "hn": "006栋2-504",
+          "area": 83.37,
+          "voted": false
+        },
+        {
+          "num": 306,
+          "hn": "006栋2-603",
+          "area": 100.47,
+          "voted": false
+        },
+        {
+          "num": 307,
+          "hn": "006栋2-604",
+          "area": 83.37,
+          "voted": false
+        },
+        {
+          "num": 308,
+          "hn": "006栋2-703",
+          "area": 100.47,
+          "voted": false
+        },
+        {
+          "num": 309,
+          "hn": "006栋2-704",
+          "area": 83.37,
+          "voted": false
+        },
+        {
+          "num": 310,
+          "hn": "006栋2-803",
+          "area": 100.47,
+          "voted": false
+        },
+        {
+          "num": 311,
+          "hn": "006栋2-804",
+          "area": 83.37,
+          "voted": false
+        },
+        {
+          "num": 312,
+          "hn": "006栋2-903",
+          "area": 100.47,
+          "voted": true
+        },
+        {
+          "num": 313,
+          "hn": "006栋2-904",
+          "area": 83.37,
+          "voted": false
+        },
+        {
+          "num": 314,
+          "hn": "006栋3-1005",
+          "area": 100.47,
+          "voted": false
+        },
+        {
+          "num": 315,
+          "hn": "006栋3-1006",
+          "area": 83.95,
+          "voted": true
+        },
+        {
+          "num": 316,
+          "hn": "006栋3-105",
+          "area": 102.97,
+          "voted": true
+        },
+        {
+          "num": 317,
+          "hn": "006栋3-106",
+          "area": 86.45,
+          "voted": false
+        },
+        {
+          "num": 318,
+          "hn": "006栋3-1105",
+          "area": 100.47,
+          "voted": false
+        },
+        {
+          "num": 319,
+          "hn": "006栋3-1106",
+          "area": 83.95,
+          "voted": false
+        },
+        {
+          "num": 320,
+          "hn": "006栋3-1205",
+          "area": 100.47,
+          "voted": true
+        },
+        {
+          "num": 321,
+          "hn": "006栋3-1206",
+          "area": 83.95,
+          "voted": false
+        },
+        {
+          "num": 322,
+          "hn": "006栋3-1305",
+          "area": 100.47,
+          "voted": false
+        },
+        {
+          "num": 323,
+          "hn": "006栋3-1306",
+          "area": 83.95,
+          "voted": true
+        },
+        {
+          "num": 324,
+          "hn": "006栋3-1405",
+          "area": 100.47,
+          "voted": false
+        },
+        {
+          "num": 325,
+          "hn": "006栋3-1406",
+          "area": 83.95,
+          "voted": false
+        },
+        {
+          "num": 326,
+          "hn": "006栋3-1505",
+          "area": 100.47,
+          "voted": false
+        },
+        {
+          "num": 327,
+          "hn": "006栋3-1506",
+          "area": 83.95,
+          "voted": false
+        },
+        {
+          "num": 328,
+          "hn": "006栋3-1605",
+          "area": 100.47,
+          "voted": true
+        },
+        {
+          "num": 329,
+          "hn": "006栋3-1606",
+          "area": 83.95,
+          "voted": false
+        },
+        {
+          "num": 330,
+          "hn": "006栋3-1705",
+          "area": 100.47,
+          "voted": false
+        },
+        {
+          "num": 331,
+          "hn": "006栋3-1706",
+          "area": 83.95,
+          "voted": false
+        },
+        {
+          "num": 332,
+          "hn": "006栋3-1805",
+          "area": 100.47,
+          "voted": false
+        },
+        {
+          "num": 333,
+          "hn": "006栋3-1806",
+          "area": 83.95,
+          "voted": false
+        },
+        {
+          "num": 334,
+          "hn": "006栋3-205",
+          "area": 100.47,
+          "voted": false
+        },
+        {
+          "num": 335,
+          "hn": "006栋3-206",
+          "area": 83.95,
+          "voted": false
+        },
+        {
+          "num": 336,
+          "hn": "006栋3-305",
+          "area": 100.47,
+          "voted": false
+        },
+        {
+          "num": 337,
+          "hn": "006栋3-306",
+          "area": 83.95,
+          "voted": false
+        },
+        {
+          "num": 338,
+          "hn": "006栋3-405",
+          "area": 100.47,
+          "voted": false
+        },
+        {
+          "num": 339,
+          "hn": "006栋3-406",
+          "area": 83.95,
+          "voted": false
+        },
+        {
+          "num": 340,
+          "hn": "006栋3-505",
+          "area": 100.47,
+          "voted": false
+        },
+        {
+          "num": 341,
+          "hn": "006栋3-506",
+          "area": 83.95,
+          "voted": false
+        },
+        {
+          "num": 342,
+          "hn": "006栋3-605",
+          "area": 100.47,
+          "voted": false
+        },
+        {
+          "num": 343,
+          "hn": "006栋3-606",
+          "area": 83.95,
+          "voted": true
+        },
+        {
+          "num": 344,
+          "hn": "006栋3-705",
+          "area": 100.47,
+          "voted": false
+        },
+        {
+          "num": 345,
+          "hn": "006栋3-706",
+          "area": 83.95,
+          "voted": false
+        },
+        {
+          "num": 346,
+          "hn": "006栋3-805",
+          "area": 100.47,
+          "voted": false
+        },
+        {
+          "num": 347,
+          "hn": "006栋3-806",
+          "area": 83.95,
+          "voted": true
+        },
+        {
+          "num": 348,
+          "hn": "006栋3-905",
+          "area": 100.47,
+          "voted": true
+        },
+        {
+          "num": 349,
+          "hn": "006栋3-906",
+          "area": 83.95,
+          "voted": true
+        }
+      ],
+      "slug": "006"
+    },
+    {
+      "name": "007栋",
+      "isShop": false,
+      "households": 105,
+      "voted": 33,
+      "rows": [
+        {
+          "num": 350,
+          "hn": "007栋1-1001",
+          "area": 86.4,
+          "voted": true
+        },
+        {
+          "num": 351,
+          "hn": "007栋1-1002",
+          "area": 103.08,
+          "voted": false
+        },
+        {
+          "num": 352,
+          "hn": "007栋1-1101",
+          "area": 86.4,
+          "voted": false
+        },
+        {
+          "num": 353,
+          "hn": "007栋1-1102",
+          "area": 103.08,
+          "voted": false
+        },
+        {
+          "num": 354,
+          "hn": "007栋1-1201",
+          "area": 86.4,
+          "voted": false
+        },
+        {
+          "num": 355,
+          "hn": "007栋1-1202",
+          "area": 103.08,
+          "voted": true
+        },
+        {
+          "num": 356,
+          "hn": "007栋1-1301",
+          "area": 86.4,
+          "voted": false
+        },
+        {
+          "num": 357,
+          "hn": "007栋1-1302",
+          "area": 103.08,
+          "voted": true
+        },
+        {
+          "num": 358,
+          "hn": "007栋1-1401",
+          "area": 86.4,
+          "voted": false
+        },
+        {
+          "num": 359,
+          "hn": "007栋1-1402",
+          "area": 103.08,
+          "voted": false
+        },
+        {
+          "num": 360,
+          "hn": "007栋1-1501",
+          "area": 86.4,
+          "voted": true
+        },
+        {
+          "num": 361,
+          "hn": "007栋1-1502",
+          "area": 103.08,
+          "voted": false
+        },
+        {
+          "num": 362,
+          "hn": "007栋1-1601",
+          "area": 86.4,
+          "voted": false
+        },
+        {
+          "num": 363,
+          "hn": "007栋1-1602",
+          "area": 103.08,
+          "voted": true
+        },
+        {
+          "num": 364,
+          "hn": "007栋1-1701",
+          "area": 86.4,
+          "voted": true
+        },
+        {
+          "num": 365,
+          "hn": "007栋1-1702",
+          "area": 103.08,
+          "voted": true
+        },
+        {
+          "num": 366,
+          "hn": "007栋1-1801",
+          "area": 86.4,
+          "voted": false
+        },
+        {
+          "num": 367,
+          "hn": "007栋1-1802",
+          "area": 103.08,
+          "voted": false
+        },
+        {
+          "num": 368,
+          "hn": "007栋1-201",
+          "area": 85.81,
+          "voted": false
+        },
+        {
+          "num": 369,
+          "hn": "007栋1-202",
+          "area": 103.08,
+          "voted": false
+        },
+        {
+          "num": 370,
+          "hn": "007栋1-301",
+          "area": 85.81,
+          "voted": false
+        },
+        {
+          "num": 371,
+          "hn": "007栋1-302",
+          "area": 103.08,
+          "voted": false
+        },
+        {
+          "num": 372,
+          "hn": "007栋1-401",
+          "area": 86.4,
+          "voted": false
+        },
+        {
+          "num": 373,
+          "hn": "007栋1-402",
+          "area": 103.08,
+          "voted": true
+        },
+        {
+          "num": 374,
+          "hn": "007栋1-501",
+          "area": 86.4,
+          "voted": false
+        },
+        {
+          "num": 375,
+          "hn": "007栋1-502",
+          "area": 103.08,
+          "voted": false
+        },
+        {
+          "num": 376,
+          "hn": "007栋1-601",
+          "area": 86.4,
+          "voted": false
+        },
+        {
+          "num": 377,
+          "hn": "007栋1-602",
+          "area": 103.08,
+          "voted": false
+        },
+        {
+          "num": 378,
+          "hn": "007栋1-701",
+          "area": 86.4,
+          "voted": false
+        },
+        {
+          "num": 379,
+          "hn": "007栋1-702",
+          "area": 103.08,
+          "voted": true
+        },
+        {
+          "num": 380,
+          "hn": "007栋1-801",
+          "area": 86.4,
+          "voted": true
+        },
+        {
+          "num": 381,
+          "hn": "007栋1-802",
+          "area": 103.08,
+          "voted": true
+        },
+        {
+          "num": 382,
+          "hn": "007栋1-901",
+          "area": 86.4,
+          "voted": false
+        },
+        {
+          "num": 383,
+          "hn": "007栋1-902",
+          "area": 103.08,
+          "voted": false
+        },
+        {
+          "num": 384,
+          "hn": "007栋2-1003",
+          "area": 101.15,
+          "voted": false
+        },
+        {
+          "num": 385,
+          "hn": "007栋2-1004",
+          "area": 83.94,
+          "voted": false
+        },
+        {
+          "num": 386,
+          "hn": "007栋2-104",
+          "area": 83.26,
+          "voted": false
+        },
+        {
+          "num": 387,
+          "hn": "007栋2-1103",
+          "area": 101.15,
+          "voted": false
+        },
+        {
+          "num": 388,
+          "hn": "007栋2-1104",
+          "area": 83.94,
+          "voted": true
+        },
+        {
+          "num": 389,
+          "hn": "007栋2-1203",
+          "area": 101.15,
+          "voted": false
+        },
+        {
+          "num": 390,
+          "hn": "007栋2-1204",
+          "area": 83.94,
+          "voted": false
+        },
+        {
+          "num": 391,
+          "hn": "007栋2-1303",
+          "area": 101.15,
+          "voted": true
+        },
+        {
+          "num": 392,
+          "hn": "007栋2-1304",
+          "area": 83.94,
+          "voted": false
+        },
+        {
+          "num": 393,
+          "hn": "007栋2-1403",
+          "area": 101.15,
+          "voted": false
+        },
+        {
+          "num": 394,
+          "hn": "007栋2-1404",
+          "area": 83.94,
+          "voted": true
+        },
+        {
+          "num": 395,
+          "hn": "007栋2-1503",
+          "area": 101.15,
+          "voted": true
+        },
+        {
+          "num": 396,
+          "hn": "007栋2-1504",
+          "area": 83.94,
+          "voted": false
+        },
+        {
+          "num": 397,
+          "hn": "007栋2-1603",
+          "area": 101.15,
+          "voted": true
+        },
+        {
+          "num": 398,
+          "hn": "007栋2-1604",
+          "area": 83.94,
+          "voted": true
+        },
+        {
+          "num": 399,
+          "hn": "007栋2-1703",
+          "area": 101.15,
+          "voted": false
+        },
+        {
+          "num": 400,
+          "hn": "007栋2-1704",
+          "area": 83.94,
+          "voted": false
+        },
+        {
+          "num": 401,
+          "hn": "007栋2-1803",
+          "area": 101.15,
+          "voted": true
+        },
+        {
+          "num": 402,
+          "hn": "007栋2-1804",
+          "area": 83.94,
+          "voted": true
+        },
+        {
+          "num": 403,
+          "hn": "007栋2-203",
+          "area": 101.15,
+          "voted": false
+        },
+        {
+          "num": 404,
+          "hn": "007栋2-204",
+          "area": 83.94,
+          "voted": false
+        },
+        {
+          "num": 405,
+          "hn": "007栋2-303",
+          "area": 101.15,
+          "voted": true
+        },
+        {
+          "num": 406,
+          "hn": "007栋2-304",
+          "area": 83.94,
+          "voted": false
+        },
+        {
+          "num": 407,
+          "hn": "007栋2-403",
+          "area": 101.15,
+          "voted": false
+        },
+        {
+          "num": 408,
+          "hn": "007栋2-404",
+          "area": 83.94,
+          "voted": true
+        },
+        {
+          "num": 409,
+          "hn": "007栋2-503",
+          "area": 101.15,
+          "voted": false
+        },
+        {
+          "num": 410,
+          "hn": "007栋2-504",
+          "area": 83.94,
+          "voted": false
+        },
+        {
+          "num": 411,
+          "hn": "007栋2-603",
+          "area": 101.15,
+          "voted": true
+        },
+        {
+          "num": 412,
+          "hn": "007栋2-604",
+          "area": 83.94,
+          "voted": false
+        },
+        {
+          "num": 413,
+          "hn": "007栋2-703",
+          "area": 101.15,
+          "voted": true
+        },
+        {
+          "num": 414,
+          "hn": "007栋2-704",
+          "area": 83.94,
+          "voted": false
+        },
+        {
+          "num": 415,
+          "hn": "007栋2-803",
+          "area": 101.15,
+          "voted": true
+        },
+        {
+          "num": 416,
+          "hn": "007栋2-804",
+          "area": 83.94,
+          "voted": false
+        },
+        {
+          "num": 417,
+          "hn": "007栋2-903",
+          "area": 101.15,
+          "voted": false
+        },
+        {
+          "num": 418,
+          "hn": "007栋2-904",
+          "area": 83.94,
+          "voted": false
+        },
+        {
+          "num": 419,
+          "hn": "007栋3-1005",
+          "area": 101.15,
+          "voted": true
+        },
+        {
+          "num": 420,
+          "hn": "007栋3-1006",
+          "area": 84.52,
+          "voted": false
+        },
+        {
+          "num": 421,
+          "hn": "007栋3-105",
+          "area": 84.59,
+          "voted": false
+        },
+        {
+          "num": 422,
+          "hn": "007栋3-106",
+          "area": 83.83,
+          "voted": false
+        },
+        {
+          "num": 423,
+          "hn": "007栋3-1105",
+          "area": 101.15,
+          "voted": false
+        },
+        {
+          "num": 424,
+          "hn": "007栋3-1106",
+          "area": 84.52,
+          "voted": true
+        },
+        {
+          "num": 425,
+          "hn": "007栋3-1205",
+          "area": 101.15,
+          "voted": false
+        },
+        {
+          "num": 426,
+          "hn": "007栋3-1206",
+          "area": 84.52,
+          "voted": false
+        },
+        {
+          "num": 427,
+          "hn": "007栋3-1305",
+          "area": 101.15,
+          "voted": false
+        },
+        {
+          "num": 428,
+          "hn": "007栋3-1306",
+          "area": 84.52,
+          "voted": false
+        },
+        {
+          "num": 429,
+          "hn": "007栋3-1405",
+          "area": 101.15,
+          "voted": false
+        },
+        {
+          "num": 430,
+          "hn": "007栋3-1406",
+          "area": 84.52,
+          "voted": false
+        },
+        {
+          "num": 431,
+          "hn": "007栋3-1505",
+          "area": 101.15,
+          "voted": false
+        },
+        {
+          "num": 432,
+          "hn": "007栋3-1506",
+          "area": 84.52,
+          "voted": true
+        },
+        {
+          "num": 433,
+          "hn": "007栋3-1605",
+          "area": 101.15,
+          "voted": false
+        },
+        {
+          "num": 434,
+          "hn": "007栋3-1606",
+          "area": 84.52,
+          "voted": false
+        },
+        {
+          "num": 435,
+          "hn": "007栋3-1705",
+          "area": 101.15,
+          "voted": false
+        },
+        {
+          "num": 436,
+          "hn": "007栋3-1706",
+          "area": 84.52,
+          "voted": false
+        },
+        {
+          "num": 437,
+          "hn": "007栋3-1805",
+          "area": 101.15,
+          "voted": false
+        },
+        {
+          "num": 438,
+          "hn": "007栋3-1806",
+          "area": 84.52,
+          "voted": false
+        },
+        {
+          "num": 439,
+          "hn": "007栋3-205",
+          "area": 101.15,
+          "voted": false
+        },
+        {
+          "num": 440,
+          "hn": "007栋3-206",
+          "area": 84.52,
+          "voted": true
+        },
+        {
+          "num": 441,
+          "hn": "007栋3-305",
+          "area": 101.15,
+          "voted": true
+        },
+        {
+          "num": 442,
+          "hn": "007栋3-306",
+          "area": 84.52,
+          "voted": false
+        },
+        {
+          "num": 443,
+          "hn": "007栋3-405",
+          "area": 101.15,
+          "voted": false
+        },
+        {
+          "num": 444,
+          "hn": "007栋3-406",
+          "area": 84.52,
+          "voted": false
+        },
+        {
+          "num": 445,
+          "hn": "007栋3-505",
+          "area": 101.15,
+          "voted": true
+        },
+        {
+          "num": 446,
+          "hn": "007栋3-506",
+          "area": 84.52,
+          "voted": true
+        },
+        {
+          "num": 447,
+          "hn": "007栋3-605",
+          "area": 101.15,
+          "voted": false
+        },
+        {
+          "num": 448,
+          "hn": "007栋3-606",
+          "area": 84.52,
+          "voted": true
+        },
+        {
+          "num": 449,
+          "hn": "007栋3-705",
+          "area": 101.15,
+          "voted": true
+        },
+        {
+          "num": 450,
+          "hn": "007栋3-706",
+          "area": 84.52,
+          "voted": false
+        },
+        {
+          "num": 451,
+          "hn": "007栋3-805",
+          "area": 101.15,
+          "voted": false
+        },
+        {
+          "num": 452,
+          "hn": "007栋3-806",
+          "area": 84.52,
+          "voted": false
+        },
+        {
+          "num": 453,
+          "hn": "007栋3-905",
+          "area": 101.15,
+          "voted": false
+        },
+        {
+          "num": 454,
+          "hn": "007栋3-906",
+          "area": 84.52,
+          "voted": false
+        }
+      ],
+      "slug": "007"
+    },
+    {
+      "name": "008栋",
+      "isShop": false,
+      "households": 115,
+      "voted": 48,
+      "rows": [
+        {
+          "num": 455,
+          "hn": "008栋1-1001",
+          "area": 94.54,
+          "voted": false
+        },
+        {
+          "num": 456,
+          "hn": "008栋1-1002",
+          "area": 112.87,
+          "voted": false
+        },
+        {
+          "num": 457,
+          "hn": "008栋1-101",
+          "area": 79.16,
+          "voted": false
+        },
+        {
+          "num": 458,
+          "hn": "008栋1-102",
+          "area": 112.84,
+          "voted": true
+        },
+        {
+          "num": 459,
+          "hn": "008栋1-1101",
+          "area": 94.54,
+          "voted": true
+        },
+        {
+          "num": 460,
+          "hn": "008栋1-1102",
+          "area": 112.87,
+          "voted": true
+        },
+        {
+          "num": 461,
+          "hn": "008栋1-201",
+          "area": 94.54,
+          "voted": false
+        },
+        {
+          "num": 462,
+          "hn": "008栋1-202",
+          "area": 112.87,
+          "voted": false
+        },
+        {
+          "num": 463,
+          "hn": "008栋1-301",
+          "area": 94.54,
+          "voted": true
+        },
+        {
+          "num": 464,
+          "hn": "008栋1-302",
+          "area": 112.87,
+          "voted": false
+        },
+        {
+          "num": 465,
+          "hn": "008栋1-401",
+          "area": 94.54,
+          "voted": true
+        },
+        {
+          "num": 466,
+          "hn": "008栋1-402",
+          "area": 112.87,
+          "voted": true
+        },
+        {
+          "num": 467,
+          "hn": "008栋1-501",
+          "area": 94.54,
+          "voted": true
+        },
+        {
+          "num": 468,
+          "hn": "008栋1-502",
+          "area": 112.87,
+          "voted": false
+        },
+        {
+          "num": 469,
+          "hn": "008栋1-601",
+          "area": 94.54,
+          "voted": true
+        },
+        {
+          "num": 470,
+          "hn": "008栋1-602",
+          "area": 112.87,
+          "voted": false
+        },
+        {
+          "num": 471,
+          "hn": "008栋1-701",
+          "area": 94.54,
+          "voted": true
+        },
+        {
+          "num": 472,
+          "hn": "008栋1-702",
+          "area": 112.87,
+          "voted": true
+        },
+        {
+          "num": 473,
+          "hn": "008栋1-801",
+          "area": 94.54,
+          "voted": false
+        },
+        {
+          "num": 474,
+          "hn": "008栋1-802",
+          "area": 112.87,
+          "voted": true
+        },
+        {
+          "num": 475,
+          "hn": "008栋1-901",
+          "area": 94.54,
+          "voted": false
+        },
+        {
+          "num": 476,
+          "hn": "008栋1-902",
+          "area": 112.87,
+          "voted": false
+        },
+        {
+          "num": 477,
+          "hn": "008栋2-1003",
+          "area": 112.87,
+          "voted": true
+        },
+        {
+          "num": 478,
+          "hn": "008栋2-1004",
+          "area": 94.28,
+          "voted": true
+        },
+        {
+          "num": 479,
+          "hn": "008栋2-103",
+          "area": 112.83,
+          "voted": false
+        },
+        {
+          "num": 480,
+          "hn": "008栋2-104",
+          "area": 78.89,
+          "voted": false
+        },
+        {
+          "num": 481,
+          "hn": "008栋2-1103",
+          "area": 112.87,
+          "voted": false
+        },
+        {
+          "num": 482,
+          "hn": "008栋2-1104",
+          "area": 94.28,
+          "voted": false
+        },
+        {
+          "num": 483,
+          "hn": "008栋2-203",
+          "area": 112.87,
+          "voted": true
+        },
+        {
+          "num": 484,
+          "hn": "008栋2-204",
+          "area": 94.28,
+          "voted": false
+        },
+        {
+          "num": 485,
+          "hn": "008栋2-303",
+          "area": 112.87,
+          "voted": true
+        },
+        {
+          "num": 486,
+          "hn": "008栋2-304",
+          "area": 94.28,
+          "voted": false
+        },
+        {
+          "num": 487,
+          "hn": "008栋2-403",
+          "area": 112.87,
+          "voted": true
+        },
+        {
+          "num": 488,
+          "hn": "008栋2-404",
+          "area": 94.28,
+          "voted": true
+        },
+        {
+          "num": 489,
+          "hn": "008栋2-503",
+          "area": 112.87,
+          "voted": false
+        },
+        {
+          "num": 490,
+          "hn": "008栋2-504",
+          "area": 94.28,
+          "voted": true
+        },
+        {
+          "num": 491,
+          "hn": "008栋2-603",
+          "area": 112.87,
+          "voted": true
+        },
+        {
+          "num": 492,
+          "hn": "008栋2-604",
+          "area": 94.28,
+          "voted": true
+        },
+        {
+          "num": 493,
+          "hn": "008栋2-703",
+          "area": 112.87,
+          "voted": false
+        },
+        {
+          "num": 494,
+          "hn": "008栋2-704",
+          "area": 94.28,
+          "voted": true
+        },
+        {
+          "num": 495,
+          "hn": "008栋2-803",
+          "area": 112.87,
+          "voted": false
+        },
+        {
+          "num": 496,
+          "hn": "008栋2-804",
+          "area": 94.28,
+          "voted": false
+        },
+        {
+          "num": 497,
+          "hn": "008栋2-903",
+          "area": 112.87,
+          "voted": false
+        },
+        {
+          "num": 498,
+          "hn": "008栋2-904",
+          "area": 94.28,
+          "voted": true
+        },
+        {
+          "num": 499,
+          "hn": "008栋3-1005",
+          "area": 84.32,
+          "voted": false
+        },
+        {
+          "num": 500,
+          "hn": "008栋3-1006",
+          "area": 100.91,
+          "voted": false
+        },
+        {
+          "num": 501,
+          "hn": "008栋3-105",
+          "area": 83.62,
+          "voted": false
+        },
+        {
+          "num": 502,
+          "hn": "008栋3-106",
+          "area": 84.39,
+          "voted": false
+        },
+        {
+          "num": 503,
+          "hn": "008栋3-1105",
+          "area": 84.32,
+          "voted": false
+        },
+        {
+          "num": 504,
+          "hn": "008栋3-1106",
+          "area": 100.91,
+          "voted": false
+        },
+        {
+          "num": 505,
+          "hn": "008栋3-1205",
+          "area": 84.6,
+          "voted": false
+        },
+        {
+          "num": 506,
+          "hn": "008栋3-1206",
+          "area": 100.91,
+          "voted": false
+        },
+        {
+          "num": 507,
+          "hn": "008栋3-1305",
+          "area": 84.6,
+          "voted": false
+        },
+        {
+          "num": 508,
+          "hn": "008栋3-1306",
+          "area": 100.91,
+          "voted": false
+        },
+        {
+          "num": 509,
+          "hn": "008栋3-1405",
+          "area": 84.6,
+          "voted": false
+        },
+        {
+          "num": 510,
+          "hn": "008栋3-1406",
+          "area": 100.91,
+          "voted": false
+        },
+        {
+          "num": 511,
+          "hn": "008栋3-1505",
+          "area": 84.6,
+          "voted": false
+        },
+        {
+          "num": 512,
+          "hn": "008栋3-1506",
+          "area": 100.91,
+          "voted": true
+        },
+        {
+          "num": 513,
+          "hn": "008栋3-1605",
+          "area": 84.6,
+          "voted": false
+        },
+        {
+          "num": 514,
+          "hn": "008栋3-1606",
+          "area": 100.91,
+          "voted": true
+        },
+        {
+          "num": 515,
+          "hn": "008栋3-1705",
+          "area": 84.6,
+          "voted": false
+        },
+        {
+          "num": 516,
+          "hn": "008栋3-1706",
+          "area": 100.91,
+          "voted": false
+        },
+        {
+          "num": 517,
+          "hn": "008栋3-1805",
+          "area": 84.6,
+          "voted": false
+        },
+        {
+          "num": 518,
+          "hn": "008栋3-1806",
+          "area": 100.91,
+          "voted": true
+        },
+        {
+          "num": 519,
+          "hn": "008栋3-205",
+          "area": 84.32,
+          "voted": true
+        },
+        {
+          "num": 520,
+          "hn": "008栋3-206",
+          "area": 100.91,
+          "voted": false
+        },
+        {
+          "num": 521,
+          "hn": "008栋3-305",
+          "area": 84.32,
+          "voted": false
+        },
+        {
+          "num": 522,
+          "hn": "008栋3-306",
+          "area": 100.91,
+          "voted": false
+        },
+        {
+          "num": 523,
+          "hn": "008栋3-405",
+          "area": 84.32,
+          "voted": false
+        },
+        {
+          "num": 524,
+          "hn": "008栋3-406",
+          "area": 100.91,
+          "voted": false
+        },
+        {
+          "num": 525,
+          "hn": "008栋3-505",
+          "area": 84.32,
+          "voted": false
+        },
+        {
+          "num": 526,
+          "hn": "008栋3-506",
+          "area": 100.91,
+          "voted": false
+        },
+        {
+          "num": 527,
+          "hn": "008栋3-605",
+          "area": 84.32,
+          "voted": true
+        },
+        {
+          "num": 528,
+          "hn": "008栋3-606",
+          "area": 100.91,
+          "voted": false
+        },
+        {
+          "num": 529,
+          "hn": "008栋3-705",
+          "area": 84.32,
+          "voted": true
+        },
+        {
+          "num": 530,
+          "hn": "008栋3-706",
+          "area": 100.91,
+          "voted": true
+        },
+        {
+          "num": 531,
+          "hn": "008栋3-805",
+          "area": 84.32,
+          "voted": false
+        },
+        {
+          "num": 532,
+          "hn": "008栋3-806",
+          "area": 100.91,
+          "voted": true
+        },
+        {
+          "num": 533,
+          "hn": "008栋3-905",
+          "area": 84.32,
+          "voted": true
+        },
+        {
+          "num": 534,
+          "hn": "008栋3-906",
+          "area": 100.91,
+          "voted": true
+        },
+        {
+          "num": 535,
+          "hn": "008栋4-1007",
+          "area": 100.91,
+          "voted": false
+        },
+        {
+          "num": 536,
+          "hn": "008栋4-1008",
+          "area": 84.33,
+          "voted": false
+        },
+        {
+          "num": 537,
+          "hn": "008栋4-107",
+          "area": 84.39,
+          "voted": false
+        },
+        {
+          "num": 538,
+          "hn": "008栋4-1107",
+          "area": 100.91,
+          "voted": true
+        },
+        {
+          "num": 539,
+          "hn": "008栋4-1108",
+          "area": 84.33,
+          "voted": false
+        },
+        {
+          "num": 540,
+          "hn": "008栋4-1207",
+          "area": 100.91,
+          "voted": true
+        },
+        {
+          "num": 541,
+          "hn": "008栋4-1208",
+          "area": 84.33,
+          "voted": true
+        },
+        {
+          "num": 542,
+          "hn": "008栋4-1307",
+          "area": 100.91,
+          "voted": true
+        },
+        {
+          "num": 543,
+          "hn": "008栋4-1308",
+          "area": 84.33,
+          "voted": false
+        },
+        {
+          "num": 544,
+          "hn": "008栋4-1407",
+          "area": 100.91,
+          "voted": true
+        },
+        {
+          "num": 545,
+          "hn": "008栋4-1408",
+          "area": 84.33,
+          "voted": true
+        },
+        {
+          "num": 546,
+          "hn": "008栋4-1507",
+          "area": 100.91,
+          "voted": false
+        },
+        {
+          "num": 547,
+          "hn": "008栋4-1508",
+          "area": 84.33,
+          "voted": true
+        },
+        {
+          "num": 548,
+          "hn": "008栋4-1607",
+          "area": 100.91,
+          "voted": false
+        },
+        {
+          "num": 549,
+          "hn": "008栋4-1608",
+          "area": 84.33,
+          "voted": true
+        },
+        {
+          "num": 550,
+          "hn": "008栋4-1707",
+          "area": 100.91,
+          "voted": false
+        },
+        {
+          "num": 551,
+          "hn": "008栋4-1708",
+          "area": 84.33,
+          "voted": true
+        },
+        {
+          "num": 552,
+          "hn": "008栋4-1807",
+          "area": 100.91,
+          "voted": false
+        },
+        {
+          "num": 553,
+          "hn": "008栋4-1808",
+          "area": 84.33,
+          "voted": false
+        },
+        {
+          "num": 554,
+          "hn": "008栋4-207",
+          "area": 100.91,
+          "voted": true
+        },
+        {
+          "num": 555,
+          "hn": "008栋4-208",
+          "area": 83.81,
+          "voted": true
+        },
+        {
+          "num": 556,
+          "hn": "008栋4-307",
+          "area": 100.91,
+          "voted": false
+        },
+        {
+          "num": 557,
+          "hn": "008栋4-308",
+          "area": 83.81,
+          "voted": false
+        },
+        {
+          "num": 558,
+          "hn": "008栋4-407",
+          "area": 100.91,
+          "voted": false
+        },
+        {
+          "num": 559,
+          "hn": "008栋4-408",
+          "area": 84.33,
+          "voted": false
+        },
+        {
+          "num": 560,
+          "hn": "008栋4-507",
+          "area": 100.91,
+          "voted": false
+        },
+        {
+          "num": 561,
+          "hn": "008栋4-508",
+          "area": 84.33,
+          "voted": true
+        },
+        {
+          "num": 562,
+          "hn": "008栋4-607",
+          "area": 100.91,
+          "voted": true
+        },
+        {
+          "num": 563,
+          "hn": "008栋4-608",
+          "area": 84.33,
+          "voted": true
+        },
+        {
+          "num": 564,
+          "hn": "008栋4-707",
+          "area": 100.91,
+          "voted": true
+        },
+        {
+          "num": 565,
+          "hn": "008栋4-708",
+          "area": 84.33,
+          "voted": false
+        },
+        {
+          "num": 566,
+          "hn": "008栋4-807",
+          "area": 100.91,
+          "voted": true
+        },
+        {
+          "num": 567,
+          "hn": "008栋4-808",
+          "area": 84.33,
+          "voted": false
+        },
+        {
+          "num": 568,
+          "hn": "008栋4-907",
+          "area": 100.91,
+          "voted": false
+        },
+        {
+          "num": 569,
+          "hn": "008栋4-908",
+          "area": 84.33,
+          "voted": false
+        }
+      ],
+      "slug": "008"
+    },
+    {
+      "name": "009栋",
+      "isShop": false,
+      "households": 60,
+      "voted": 14,
+      "rows": [
+        {
+          "num": 570,
+          "hn": "009栋1-1001",
+          "area": 85.14,
+          "voted": false
+        },
+        {
+          "num": 571,
+          "hn": "009栋1-1002",
+          "area": 101.24,
+          "voted": false
+        },
+        {
+          "num": 572,
+          "hn": "009栋1-101",
+          "area": 84.45,
+          "voted": true
+        },
+        {
+          "num": 573,
+          "hn": "009栋1-102",
+          "area": 84.67,
+          "voted": false
+        },
+        {
+          "num": 574,
+          "hn": "009栋1-1101",
+          "area": 85.14,
+          "voted": false
+        },
+        {
+          "num": 575,
+          "hn": "009栋1-1102",
+          "area": 101.24,
+          "voted": false
+        },
+        {
+          "num": 576,
+          "hn": "009栋1-1201",
+          "area": 85.14,
+          "voted": false
+        },
+        {
+          "num": 577,
+          "hn": "009栋1-1202",
+          "area": 101.24,
+          "voted": false
+        },
+        {
+          "num": 578,
+          "hn": "009栋1-1301",
+          "area": 85.14,
+          "voted": false
+        },
+        {
+          "num": 579,
+          "hn": "009栋1-1302",
+          "area": 101.24,
+          "voted": false
+        },
+        {
+          "num": 580,
+          "hn": "009栋1-1401",
+          "area": 85.14,
+          "voted": false
+        },
+        {
+          "num": 581,
+          "hn": "009栋1-1402",
+          "area": 101.24,
+          "voted": false
+        },
+        {
+          "num": 582,
+          "hn": "009栋1-1501",
+          "area": 85.14,
+          "voted": false
+        },
+        {
+          "num": 583,
+          "hn": "009栋1-1502",
+          "area": 101.24,
+          "voted": false
+        },
+        {
+          "num": 584,
+          "hn": "009栋1-201",
+          "area": 85.14,
+          "voted": false
+        },
+        {
+          "num": 585,
+          "hn": "009栋1-202",
+          "area": 101.24,
+          "voted": false
+        },
+        {
+          "num": 586,
+          "hn": "009栋1-301",
+          "area": 85.14,
+          "voted": true
+        },
+        {
+          "num": 587,
+          "hn": "009栋1-302",
+          "area": 101.24,
+          "voted": false
+        },
+        {
+          "num": 588,
+          "hn": "009栋1-401",
+          "area": 85.14,
+          "voted": false
+        },
+        {
+          "num": 589,
+          "hn": "009栋1-402",
+          "area": 101.24,
+          "voted": false
+        },
+        {
+          "num": 590,
+          "hn": "009栋1-501",
+          "area": 85.14,
+          "voted": false
+        },
+        {
+          "num": 591,
+          "hn": "009栋1-502",
+          "area": 101.24,
+          "voted": true
+        },
+        {
+          "num": 592,
+          "hn": "009栋1-601",
+          "area": 85.14,
+          "voted": true
+        },
+        {
+          "num": 593,
+          "hn": "009栋1-602",
+          "area": 101.24,
+          "voted": false
+        },
+        {
+          "num": 594,
+          "hn": "009栋1-701",
+          "area": 85.14,
+          "voted": false
+        },
+        {
+          "num": 595,
+          "hn": "009栋1-702",
+          "area": 101.24,
+          "voted": false
+        },
+        {
+          "num": 596,
+          "hn": "009栋1-801",
+          "area": 85.14,
+          "voted": false
+        },
+        {
+          "num": 597,
+          "hn": "009栋1-802",
+          "area": 101.24,
+          "voted": false
+        },
+        {
+          "num": 598,
+          "hn": "009栋1-901",
+          "area": 85.14,
+          "voted": true
+        },
+        {
+          "num": 599,
+          "hn": "009栋1-902",
+          "area": 101.24,
+          "voted": false
+        },
+        {
+          "num": 600,
+          "hn": "009栋2-1003",
+          "area": 101.24,
+          "voted": true
+        },
+        {
+          "num": 601,
+          "hn": "009栋2-1004",
+          "area": 84.61,
+          "voted": false
+        },
+        {
+          "num": 602,
+          "hn": "009栋2-103",
+          "area": 84.67,
+          "voted": true
+        },
+        {
+          "num": 603,
+          "hn": "009栋2-104",
+          "area": 83.91,
+          "voted": false
+        },
+        {
+          "num": 604,
+          "hn": "009栋2-1103",
+          "area": 101.24,
+          "voted": false
+        },
+        {
+          "num": 605,
+          "hn": "009栋2-1104",
+          "area": 84.61,
+          "voted": false
+        },
+        {
+          "num": 606,
+          "hn": "009栋2-1203",
+          "area": 101.24,
+          "voted": false
+        },
+        {
+          "num": 607,
+          "hn": "009栋2-1204",
+          "area": 84.61,
+          "voted": false
+        },
+        {
+          "num": 608,
+          "hn": "009栋2-1303",
+          "area": 101.24,
+          "voted": false
+        },
+        {
+          "num": 609,
+          "hn": "009栋2-1304",
+          "area": 84.61,
+          "voted": true
+        },
+        {
+          "num": 610,
+          "hn": "009栋2-1403",
+          "area": 101.24,
+          "voted": true
+        },
+        {
+          "num": 611,
+          "hn": "009栋2-1404",
+          "area": 84.61,
+          "voted": false
+        },
+        {
+          "num": 612,
+          "hn": "009栋2-1503",
+          "area": 101.24,
+          "voted": false
+        },
+        {
+          "num": 613,
+          "hn": "009栋2-1504",
+          "area": 84.61,
+          "voted": true
+        },
+        {
+          "num": 614,
+          "hn": "009栋2-203",
+          "area": 101.24,
+          "voted": true
+        },
+        {
+          "num": 615,
+          "hn": "009栋2-204",
+          "area": 84.61,
+          "voted": false
+        },
+        {
+          "num": 616,
+          "hn": "009栋2-303",
+          "area": 101.24,
+          "voted": false
+        },
+        {
+          "num": 617,
+          "hn": "009栋2-304",
+          "area": 84.61,
+          "voted": false
+        },
+        {
+          "num": 618,
+          "hn": "009栋2-403",
+          "area": 101.24,
+          "voted": false
+        },
+        {
+          "num": 619,
+          "hn": "009栋2-404",
+          "area": 84.61,
+          "voted": true
+        },
+        {
+          "num": 620,
+          "hn": "009栋2-503",
+          "area": 101.24,
+          "voted": false
+        },
+        {
+          "num": 621,
+          "hn": "009栋2-504",
+          "area": 84.61,
+          "voted": false
+        },
+        {
+          "num": 622,
+          "hn": "009栋2-603",
+          "area": 101.24,
+          "voted": false
+        },
+        {
+          "num": 623,
+          "hn": "009栋2-604",
+          "area": 84.61,
+          "voted": false
+        },
+        {
+          "num": 624,
+          "hn": "009栋2-703",
+          "area": 101.24,
+          "voted": true
+        },
+        {
+          "num": 625,
+          "hn": "009栋2-704",
+          "area": 84.61,
+          "voted": false
+        },
+        {
+          "num": 626,
+          "hn": "009栋2-803",
+          "area": 101.24,
+          "voted": false
+        },
+        {
+          "num": 627,
+          "hn": "009栋2-804",
+          "area": 84.61,
+          "voted": true
+        },
+        {
+          "num": 628,
+          "hn": "009栋2-903",
+          "area": 101.24,
+          "voted": false
+        },
+        {
+          "num": 629,
+          "hn": "009栋2-904",
+          "area": 84.61,
+          "voted": false
+        }
+      ],
+      "slug": "009"
+    },
+    {
+      "name": "S1栋",
+      "isShop": true,
+      "households": 5,
+      "voted": 2,
+      "rows": [
+        {
+          "num": 630,
+          "hn": "S1栋01",
+          "area": 128.76,
+          "voted": true
+        },
+        {
+          "num": 631,
+          "hn": "S1栋02",
+          "area": 172.38,
+          "voted": false
+        },
+        {
+          "num": 632,
+          "hn": "S1栋03",
+          "area": 166.72,
+          "voted": false
+        },
+        {
+          "num": 633,
+          "hn": "S1栋04",
+          "area": 166.72,
+          "voted": false
+        },
+        {
+          "num": 634,
+          "hn": "S1栋05",
+          "area": 211.18,
+          "voted": true
+        }
+      ],
+      "slug": "S1"
+    },
+    {
+      "name": "S2栋",
+      "isShop": true,
+      "households": 5,
+      "voted": 4,
+      "rows": [
+        {
+          "num": 635,
+          "hn": "S2栋01",
+          "area": 113.56,
+          "voted": true
+        },
+        {
+          "num": 636,
+          "hn": "S2栋02",
+          "area": 122.69,
+          "voted": false
+        },
+        {
+          "num": 637,
+          "hn": "S2栋03",
+          "area": 158.94,
+          "voted": true
+        },
+        {
+          "num": 638,
+          "hn": "S2栋04",
+          "area": 158.94,
+          "voted": true
+        },
+        {
+          "num": 639,
+          "hn": "S2栋05",
+          "area": 160.56,
+          "voted": true
+        }
+      ],
+      "slug": "S2"
+    },
+    {
+      "name": "S3栋",
+      "isShop": true,
+      "households": 5,
+      "voted": 0,
+      "rows": [
+        {
+          "num": 640,
+          "hn": "S3栋01",
+          "area": 168.56,
+          "voted": false
+        },
+        {
+          "num": 641,
+          "hn": "S3栋02",
+          "area": 160.33,
+          "voted": false
+        },
+        {
+          "num": 642,
+          "hn": "S3栋03",
+          "area": 160.33,
+          "voted": false
+        },
+        {
+          "num": 643,
+          "hn": "S3栋04",
+          "area": 160.33,
+          "voted": false
+        },
+        {
+          "num": 644,
+          "hn": "S3栋05",
+          "area": 168.56,
+          "voted": false
+        }
+      ],
+      "slug": "S3"
+    },
+    {
+      "name": "S5栋",
+      "isShop": true,
+      "households": 6,
+      "voted": 0,
+      "rows": [
+        {
+          "num": 645,
+          "hn": "S5栋01",
+          "area": 173.07,
+          "voted": false
+        },
+        {
+          "num": 646,
+          "hn": "S5栋02",
+          "area": 59.69,
+          "voted": false
+        },
+        {
+          "num": 647,
+          "hn": "S5栋03",
+          "area": 176.06,
+          "voted": false
+        },
+        {
+          "num": 648,
+          "hn": "S5栋04",
+          "area": 176.06,
+          "voted": false
+        },
+        {
+          "num": 649,
+          "hn": "S5栋05",
+          "area": 60.14,
+          "voted": false
+        },
+        {
+          "num": 650,
+          "hn": "S5栋06",
+          "area": 172.44,
+          "voted": false
+        }
+      ],
+      "slug": "S5"
+    }
+  ]
+}

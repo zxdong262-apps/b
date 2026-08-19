@@ -27,6 +27,17 @@ const PAGES = {
 
 const common = { base: BASE, description: "长春市双阳区碧桂园江山名筑业主委员会筹备组工作存档与进度跟踪" };
 
+// Voting stats data (count pages) — read live so edits to voting.json show on refresh
+const VOTING = join(ROOT, "src/data/voting.json");
+const COUNT_BASE = "../"; // count pages live under /count/, assets resolve to root
+function loadVoting() {
+  return JSON.parse(readFileSync(VOTING, "utf-8"));
+}
+function renderCount() {
+  const voting = loadVoting();
+  return compileFile(join(TEMPLATES, "count.pug"))({ ...common, base: COUNT_BASE, title: "投票统计", active: "count", voting });
+}
+
 function renderPage(name) {
   const page = PAGES[name];
   if (!page) return null;
@@ -61,9 +72,31 @@ app.get("/", (req, res) => {
   res.type("html").send(renderPage("index"));
 });
 
+// Count (voting stats) pages — rendered live from src/data/voting.json
+app.get(["/count", "/count/", "/count/index.html"], (req, res) => {
+  res.type("html").send(renderCount());
+});
+app.get("/count/:building.html", (req, res) => {
+  const html = renderCountBuilding(req.params.building);
+  if (!html) return res.status(404).send("Not Found");
+  res.type("html").send(html);
+});
+
+// Helper: match building by ASCII slug (URL) — name keeps the 栋 suffix for display
+function renderCountBuilding(slug) {
+  const voting = loadVoting();
+  const b = voting.buildings.find((x) => x.slug === slug);
+  if (!b) return null;
+  return compileFile(join(TEMPLATES, "countBuilding.pug"))({
+    ...common, base: COUNT_BASE, title: b.name + " 投票明细", active: "count", building: b, statTime: voting.statTime,
+  });
+}
+
 app.listen(PORT, () => {
   console.log(`\n  🏠 本地预览服务器已启动 (Pug 热编译)\n`);
   console.log(`  http://localhost:${PORT}`);
+  console.log(`  http://localhost:${PORT}/count/          投票统计总览`);
+  console.log(`  http://localhost:${PORT}/count/001栋.html  楼栋投票明细`);
   console.log(`  http://localhost:${PORT}/guanliyue.html`);
   console.log(`  http://localhost:${PORT}/yishiguize.html`);
   console.log(`  http://localhost:${PORT}/xuanjubanfa.html`);

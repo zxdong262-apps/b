@@ -1,0 +1,93 @@
+extends layout
+
+block content
+  include partials/countStyle.pug
+
+  - const tot = voting.total.households
+  - const tv = voting.total.voted
+  - const rate = tot ? (tv / tot * 100).toFixed(2) : "0.00"
+
+  section
+    h2 📊 投票统计总览
+    p.cv-sub(style="color:var(--c-text-2);font-size:.85rem;margin-top:-.4rem")
+      | 统计时间：#{voting.statTime} &nbsp;|&nbsp; 数据来源：各楼栋投票明细（含住宅 1-9 栋与 S 系列门市）。注：004 栋无数据。
+
+    .cv-cards
+      .cv-card
+        .cv-label 总户数
+        .cv-val= tot
+      .cv-card.ok
+        .cv-label 已投票
+        .cv-val= tv
+      .cv-card.no
+        .cv-label 未投票
+        .cv-val= tot - tv
+      .cv-card.big
+        .cv-label 总投票比例
+        .cv-val #{rate}%
+
+    .cv-donut-block
+      +donut(tv, tot, 150, 18, rate + "%")
+      .cv-legend
+        div
+          i(style="background:var(--c-success)")
+          | 已投票&nbsp;
+          b= tv
+          | &nbsp;户
+        div
+          i(style="background:#e3e8ef")
+          | 未投票&nbsp;
+          b= tot - tv
+          | &nbsp;户
+        div(style="margin-top:6px;color:var(--c-text-2)")
+          | 总投票比例：&nbsp;
+          b(style="color:var(--c-primary)")= rate + "%"
+
+  section
+    h2 各楼栋 / 门市汇总
+    .table-scroll
+      table
+        thead
+          tr
+            th 楼栋
+            th 户数
+            th 已投票
+            th 未投票
+            th 投票比例
+            th 占比
+            th 明细
+        tbody
+          each b in voting.buildings
+            - const r = b.households ? (b.voted / b.households * 100).toFixed(2) : "0.00"
+            tr
+              td
+                | #{b.name}
+                if b.isShop
+                  span.cv-tag 门市
+              td= b.households
+              td.cv-ok= b.voted
+              td= b.households - b.voted
+              td #{r}%
+              td.cv-mini
+                +donut(b.voted, b.households, 38, 7)
+              td
+                a(href=base + "count/" + b.slug + ".html") 查看明细
+          - const tr = (tot - tv)
+          tr(style="background:var(--c-primary-bg);font-weight:700")
+            td 合计
+            td= tot
+            td.cv-ok= tv
+            td= tr
+            td #{rate}%
+            td
+            td
+
+  section
+    h2 快速跳转
+    nav(style="display:flex;flex-wrap:wrap;gap:.5rem")
+      each b in voting.buildings
+        a(href=base + "count/" + b.slug + ".html" role="button" class="outline")= b.name
+
+  section
+    p(style="color:var(--c-text-2);font-size:.82rem")
+      | 说明：投票信息由原始纸质投票表照片人工识别，已投票以手写 √ 为准；个别勾选不清晰处以视觉判读标记，建议以纸质原件复核关键项。
