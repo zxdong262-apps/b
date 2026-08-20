@@ -1,15 +1,15 @@
 {
-  "statTime": "2026.08.20",
+  "statTime": "2026.08.19",
   "total": {
     "households": 650,
-    "voted": 362
+    "voted": 212
   },
   "buildings": [
     {
       "name": "001栋",
       "isShop": false,
       "households": 108,
-      "voted": 66,
+      "voted": 45,
       "rows": [
         {
           "num": 1,
@@ -111,13 +111,13 @@
           "num": 17,
           "hn": "001栋1-1701",
           "area": 84.59,
-          "voted": true
+          "voted": false
         },
         {
           "num": 18,
           "hn": "001栋1-1702",
           "area": 100.92,
-          "voted": true
+          "voted": false
         },
         {
           "num": 19,
@@ -135,7 +135,7 @@
           "num": 21,
           "hn": "001栋1-201",
           "area": 84.59,
-          "voted": true
+          "voted": false
         },
         {
           "num": 22,
@@ -153,7 +153,7 @@
           "num": 24,
           "hn": "001栋1-302",
           "area": 100.92,
-          "voted": true
+          "voted": false
         },
         {
           "num": 25,
@@ -165,7 +165,7 @@
           "num": 26,
           "hn": "001栋1-402",
           "area": 100.92,
-          "voted": true
+          "voted": false
         },
         {
           "num": 27,
@@ -189,19 +189,19 @@
           "num": 30,
           "hn": "001栋1-602",
           "area": 100.92,
-          "voted": true
+          "voted": false
         },
         {
           "num": 31,
           "hn": "001栋1-701",
           "area": 84.59,
-          "voted": true
+          "voted": false
         },
         {
           "num": 32,
           "hn": "001栋1-702",
           "area": 100.92,
-          "voted": true
+          "voted": false
         },
         {
           "num": 33,
@@ -291,13 +291,13 @@
           "num": 47,
           "hn": "001栋2-1403",
           "area": 100.92,
-          "voted": true
+          "voted": false
         },
         {
           "num": 48,
           "hn": "001栋2-1404",
           "area": 83.75,
-          "voted": true
+          "voted": false
         },
         {
           "num": 49,
@@ -315,7 +315,7 @@
           "num": 51,
           "hn": "001栋2-1603",
           "area": 100.92,
-          "voted": true
+          "voted": false
         },
         {
           "num": 52,
@@ -375,7 +375,7 @@
           "num": 61,
           "hn": "001栋2-403",
           "area": 100.92,
-          "voted": true
+          "voted": false
         },
         {
           "num": 62,
@@ -393,7 +393,7 @@
           "num": 64,
           "hn": "001栋2-504",
           "area": 83.75,
-          "voted": true
+          "voted": false
         },
         {
           "num": 65,
@@ -417,7 +417,7 @@
           "num": 68,
           "hn": "001栋2-704",
           "area": 83.75,
-          "voted": true
+          "voted": false
         },
         {
           "num": 69,
@@ -429,7 +429,7 @@
           "num": 70,
           "hn": "001栋2-804",
           "area": 83.75,
-          "voted": true
+          "voted": false
         },
         {
           "num": 71,
@@ -483,13 +483,13 @@
           "num": 79,
           "hn": "001栋3-1205",
           "area": 100.92,
-          "voted": true
+          "voted": false
         },
         {
           "num": 80,
           "hn": "001栋3-1206",
           "area": 84.33,
-          "voted": true
+          "voted": false
         },
         {
           "num": 81,
@@ -573,7 +573,7 @@
           "num": 94,
           "hn": "001栋3-206",
           "area": 84.33,
-          "voted": true
+          "voted": false
         },
         {
           "num": 95,
@@ -591,7 +591,7 @@
           "num": 97,
           "hn": "001栋3-405",
           "area": 100.92,
-          "voted": true
+          "voted": false
         },
         {
           "num": 98,
@@ -609,7 +609,7 @@
           "num": 100,
           "hn": "001栋3-506",
           "area": 84.33,
-          "voted": true
+          "voted": false
         },
         {
           "num": 101,
@@ -627,7 +627,7 @@
           "num": 103,
           "hn": "001栋3-705",
           "area": 100.92,
-          "voted": true
+          "voted": false
         },
         {
           "num": 104,
@@ -666,13 +666,13 @@
       "name": "002栋",
       "isShop": false,
       "households": 72,
-      "voted": 41,
+      "voted": 28,
       "rows": [
         {
           "num": 109,
           "hn": "002栋1-1001",
           "area": 84.59,
-          "voted": true
+          "voted": false
         },
         {
           "num": 110,
@@ -762,7 +762,7 @@
           "num": 124,
           "hn": "002栋1-1602",
           "area": 100.58,
-          "voted": true
+          "voted": false
         },
         {
           "num": 125,
@@ -852,7 +852,7 @@
           "num": 139,
           "hn": "002栋1-701",
           "area": 84.59,
-          "voted": true
+          "voted": false
         },
         {
           "num": 140,
@@ -906,7 +906,7 @@
           "num": 148,
           "hn": "002栋2-104",
           "area": 86.56,
-          "voted": true
+          "voted": false
         },
         {
           "num": 149,
@@ -942,7 +942,7 @@
           "num": 154,
           "hn": "002栋2-1304",
           "area": 84.05,
-          "voted": true
+          "voted": false
         },
         {
           "num": 155,
@@ -960,7 +960,7 @@
           "num": 157,
           "hn": "002栋2-1503",
           "area": 100.58,
-          "voted": true
+          "voted": false
         },
         {
           "num": 158,
@@ -990,13 +990,13 @@
           "num": 162,
           "hn": "002栋2-1704",
           "area": 84.05,
-          "voted": true
+          "voted": false
         },
         {
           "num": 163,
           "hn": "002栋2-1803",
           "area": 100.58,
-          "voted": true
+          "voted": false
         },
         {
           "num": 164,
@@ -1020,7 +1020,7 @@
           "num": 167,
           "hn": "002栋2-303",
           "area": 100.58,
-          "voted": true
+          "voted": false
         },
         {
           "num": 168,
@@ -1038,7 +1038,7 @@
           "num": 170,
           "hn": "002栋2-404",
           "area": 84.05,
-          "voted": true
+          "voted": false
         },
         {
           "num": 171,
@@ -1068,7 +1068,7 @@
           "num": 175,
           "hn": "002栋2-703",
           "area": 100.58,
-          "voted": true
+          "voted": false
         },
         {
           "num": 176,
@@ -1092,13 +1092,13 @@
           "num": 179,
           "hn": "002栋2-903",
           "area": 100.58,
-          "voted": true
+          "voted": false
         },
         {
           "num": 180,
           "hn": "002栋2-904",
           "area": 84.05,
-          "voted": true
+          "voted": false
         }
       ],
       "slug": "002"
@@ -1107,7 +1107,7 @@
       "name": "003栋",
       "isShop": false,
       "households": 40,
-      "voted": 27,
+      "voted": 9,
       "rows": [
         {
           "num": 181,
@@ -1125,7 +1125,7 @@
           "num": 183,
           "hn": "003栋1-101",
           "area": 96.98,
-          "voted": true
+          "voted": false
         },
         {
           "num": 184,
@@ -1161,13 +1161,13 @@
           "num": 189,
           "hn": "003栋1-401",
           "area": 94.64,
-          "voted": true
+          "voted": false
         },
         {
           "num": 190,
           "hn": "003栋1-402",
           "area": 112.97,
-          "voted": true
+          "voted": false
         },
         {
           "num": 191,
@@ -1179,7 +1179,7 @@
           "num": 192,
           "hn": "003栋1-502",
           "area": 112.97,
-          "voted": true
+          "voted": false
         },
         {
           "num": 193,
@@ -1191,7 +1191,7 @@
           "num": 194,
           "hn": "003栋1-602",
           "area": 112.97,
-          "voted": true
+          "voted": false
         },
         {
           "num": 195,
@@ -1215,7 +1215,7 @@
           "num": 198,
           "hn": "003栋1-802",
           "area": 112.97,
-          "voted": true
+          "voted": false
         },
         {
           "num": 199,
@@ -1239,7 +1239,7 @@
           "num": 202,
           "hn": "003栋2-1004",
           "area": 94.64,
-          "voted": true
+          "voted": false
         },
         {
           "num": 203,
@@ -1269,19 +1269,19 @@
           "num": 207,
           "hn": "003栋2-303",
           "area": 112.97,
-          "voted": true
+          "voted": false
         },
         {
           "num": 208,
           "hn": "003栋2-304",
           "area": 94.64,
-          "voted": true
+          "voted": false
         },
         {
           "num": 209,
           "hn": "003栋2-403",
           "area": 112.97,
-          "voted": true
+          "voted": false
         },
         {
           "num": 210,
@@ -1293,25 +1293,25 @@
           "num": 211,
           "hn": "003栋2-503",
           "area": 112.97,
-          "voted": true
+          "voted": false
         },
         {
           "num": 212,
           "hn": "003栋2-504",
           "area": 94.64,
-          "voted": true
+          "voted": false
         },
         {
           "num": 213,
           "hn": "003栋2-603",
           "area": 112.97,
-          "voted": true
+          "voted": false
         },
         {
           "num": 214,
           "hn": "003栋2-604",
           "area": 94.64,
-          "voted": true
+          "voted": false
         },
         {
           "num": 215,
@@ -1323,13 +1323,13 @@
           "num": 216,
           "hn": "003栋2-704",
           "area": 94.64,
-          "voted": true
+          "voted": false
         },
         {
           "num": 217,
           "hn": "003栋2-803",
           "area": 112.97,
-          "voted": true
+          "voted": false
         },
         {
           "num": 218,
@@ -1341,13 +1341,13 @@
           "num": 219,
           "hn": "003栋2-903",
           "area": 112.97,
-          "voted": true
+          "voted": false
         },
         {
           "num": 220,
           "hn": "003栋2-904",
           "area": 94.64,
-          "voted": true
+          "voted": false
         }
       ],
       "slug": "003"
@@ -1356,7 +1356,7 @@
       "name": "005栋",
       "isShop": false,
       "households": 22,
-      "voted": 8,
+      "voted": 4,
       "rows": [
         {
           "num": 221,
@@ -1380,13 +1380,13 @@
           "num": 224,
           "hn": "005栋1-102",
           "area": 144.74,
-          "voted": true
+          "voted": false
         },
         {
           "num": 225,
           "hn": "005栋1-1101",
           "area": 140.78,
-          "voted": true
+          "voted": false
         },
         {
           "num": 226,
@@ -1404,7 +1404,7 @@
           "num": 228,
           "hn": "005栋1-202",
           "area": 140.78,
-          "voted": true
+          "voted": false
         },
         {
           "num": 229,
@@ -1464,7 +1464,7 @@
           "num": 238,
           "hn": "005栋1-702",
           "area": 140.78,
-          "voted": true
+          "voted": false
         },
         {
           "num": 239,
@@ -1497,7 +1497,7 @@
       "name": "006栋",
       "isShop": false,
       "households": 107,
-      "voted": 49,
+      "voted": 25,
       "rows": [
         {
           "num": 243,
@@ -1509,13 +1509,13 @@
           "num": 244,
           "hn": "006栋1-1002",
           "area": 100.47,
-          "voted": true
+          "voted": false
         },
         {
           "num": 245,
           "hn": "006栋1-101",
           "area": 189.68,
-          "voted": true
+          "voted": false
         },
         {
           "num": 246,
@@ -1545,7 +1545,7 @@
           "num": 250,
           "hn": "006栋1-1301",
           "area": 84.21,
-          "voted": true
+          "voted": false
         },
         {
           "num": 251,
@@ -1569,13 +1569,13 @@
           "num": 254,
           "hn": "006栋1-1501",
           "area": 84.21,
-          "voted": true
+          "voted": false
         },
         {
           "num": 255,
           "hn": "006栋1-1502",
           "area": 100.47,
-          "voted": true
+          "voted": false
         },
         {
           "num": 256,
@@ -1593,13 +1593,13 @@
           "num": 258,
           "hn": "006栋1-1701",
           "area": 84.21,
-          "voted": true
+          "voted": false
         },
         {
           "num": 259,
           "hn": "006栋1-1702",
           "area": 100.47,
-          "voted": true
+          "voted": false
         },
         {
           "num": 260,
@@ -1629,7 +1629,7 @@
           "num": 264,
           "hn": "006栋1-301",
           "area": 84.21,
-          "voted": true
+          "voted": false
         },
         {
           "num": 265,
@@ -1707,13 +1707,13 @@
           "num": 277,
           "hn": "006栋1-902",
           "area": 100.47,
-          "voted": true
+          "voted": false
         },
         {
           "num": 278,
           "hn": "006栋2-1003",
           "area": 100.47,
-          "voted": true
+          "voted": false
         },
         {
           "num": 279,
@@ -1779,7 +1779,7 @@
           "num": 289,
           "hn": "006栋2-1404",
           "area": 83.37,
-          "voted": true
+          "voted": false
         },
         {
           "num": 290,
@@ -1833,7 +1833,7 @@
           "num": 298,
           "hn": "006栋2-203",
           "area": 100.47,
-          "voted": true
+          "voted": false
         },
         {
           "num": 299,
@@ -1845,7 +1845,7 @@
           "num": 300,
           "hn": "006栋2-303",
           "area": 100.47,
-          "voted": true
+          "voted": false
         },
         {
           "num": 301,
@@ -1911,7 +1911,7 @@
           "num": 311,
           "hn": "006栋2-804",
           "area": 83.37,
-          "voted": true
+          "voted": false
         },
         {
           "num": 312,
@@ -1923,7 +1923,7 @@
           "num": 313,
           "hn": "006栋2-904",
           "area": 83.37,
-          "voted": true
+          "voted": false
         },
         {
           "num": 314,
@@ -1977,7 +1977,7 @@
           "num": 322,
           "hn": "006栋3-1305",
           "area": 100.47,
-          "voted": true
+          "voted": false
         },
         {
           "num": 323,
@@ -1989,7 +1989,7 @@
           "num": 324,
           "hn": "006栋3-1405",
           "area": 100.47,
-          "voted": true
+          "voted": false
         },
         {
           "num": 325,
@@ -2037,7 +2037,7 @@
           "num": 332,
           "hn": "006栋3-1805",
           "area": 100.47,
-          "voted": true
+          "voted": false
         },
         {
           "num": 333,
@@ -2067,13 +2067,13 @@
           "num": 337,
           "hn": "006栋3-306",
           "area": 83.95,
-          "voted": true
+          "voted": false
         },
         {
           "num": 338,
           "hn": "006栋3-405",
           "area": 100.47,
-          "voted": true
+          "voted": false
         },
         {
           "num": 339,
@@ -2085,19 +2085,19 @@
           "num": 340,
           "hn": "006栋3-505",
           "area": 100.47,
-          "voted": true
+          "voted": false
         },
         {
           "num": 341,
           "hn": "006栋3-506",
           "area": 83.95,
-          "voted": true
+          "voted": false
         },
         {
           "num": 342,
           "hn": "006栋3-605",
           "area": 100.47,
-          "voted": true
+          "voted": false
         },
         {
           "num": 343,
@@ -2121,7 +2121,7 @@
           "num": 346,
           "hn": "006栋3-805",
           "area": 100.47,
-          "voted": true
+          "voted": false
         },
         {
           "num": 347,
@@ -2148,7 +2148,7 @@
       "name": "007栋",
       "isShop": false,
       "households": 105,
-      "voted": 60,
+      "voted": 33,
       "rows": [
         {
           "num": 350,
@@ -2160,19 +2160,19 @@
           "num": 351,
           "hn": "007栋1-1002",
           "area": 103.08,
-          "voted": true
+          "voted": false
         },
         {
           "num": 352,
           "hn": "007栋1-1101",
           "area": 86.4,
-          "voted": true
+          "voted": false
         },
         {
           "num": 353,
           "hn": "007栋1-1102",
           "area": 103.08,
-          "voted": true
+          "voted": false
         },
         {
           "num": 354,
@@ -2190,7 +2190,7 @@
           "num": 356,
           "hn": "007栋1-1301",
           "area": 86.4,
-          "voted": true
+          "voted": false
         },
         {
           "num": 357,
@@ -2202,13 +2202,13 @@
           "num": 358,
           "hn": "007栋1-1401",
           "area": 86.4,
-          "voted": true
+          "voted": false
         },
         {
           "num": 359,
           "hn": "007栋1-1402",
           "area": 103.08,
-          "voted": true
+          "voted": false
         },
         {
           "num": 360,
@@ -2250,7 +2250,7 @@
           "num": 366,
           "hn": "007栋1-1801",
           "area": 86.4,
-          "voted": true
+          "voted": false
         },
         {
           "num": 367,
@@ -2274,7 +2274,7 @@
           "num": 370,
           "hn": "007栋1-301",
           "area": 85.81,
-          "voted": true
+          "voted": false
         },
         {
           "num": 371,
@@ -2298,7 +2298,7 @@
           "num": 374,
           "hn": "007栋1-501",
           "area": 86.4,
-          "voted": true
+          "voted": false
         },
         {
           "num": 375,
@@ -2322,7 +2322,7 @@
           "num": 378,
           "hn": "007栋1-701",
           "area": 86.4,
-          "voted": true
+          "voted": false
         },
         {
           "num": 379,
@@ -2376,7 +2376,7 @@
           "num": 387,
           "hn": "007栋2-1103",
           "area": 101.15,
-          "voted": true
+          "voted": false
         },
         {
           "num": 388,
@@ -2412,7 +2412,7 @@
           "num": 393,
           "hn": "007栋2-1403",
           "area": 101.15,
-          "voted": true
+          "voted": false
         },
         {
           "num": 394,
@@ -2448,7 +2448,7 @@
           "num": 399,
           "hn": "007栋2-1703",
           "area": 101.15,
-          "voted": true
+          "voted": false
         },
         {
           "num": 400,
@@ -2490,19 +2490,19 @@
           "num": 406,
           "hn": "007栋2-304",
           "area": 83.94,
-          "voted": true
+          "voted": false
         },
         {
           "num": 407,
           "hn": "007栋2-403",
           "area": 101.15,
-          "voted": true
+          "voted": false
         },
         {
           "num": 408,
           "hn": "007栋2-404",
           "area": 83.94,
-          "voted": false
+          "voted": true
         },
         {
           "num": 409,
@@ -2526,7 +2526,7 @@
           "num": 412,
           "hn": "007栋2-604",
           "area": 83.94,
-          "voted": true
+          "voted": false
         },
         {
           "num": 413,
@@ -2580,7 +2580,7 @@
           "num": 421,
           "hn": "007栋3-105",
           "area": 84.59,
-          "voted": true
+          "voted": false
         },
         {
           "num": 422,
@@ -2592,7 +2592,7 @@
           "num": 423,
           "hn": "007栋3-1105",
           "area": 101.15,
-          "voted": true
+          "voted": false
         },
         {
           "num": 424,
@@ -2610,13 +2610,13 @@
           "num": 426,
           "hn": "007栋3-1206",
           "area": 84.52,
-          "voted": true
+          "voted": false
         },
         {
           "num": 427,
           "hn": "007栋3-1305",
           "area": 101.15,
-          "voted": true
+          "voted": false
         },
         {
           "num": 428,
@@ -2640,7 +2640,7 @@
           "num": 431,
           "hn": "007栋3-1505",
           "area": 101.15,
-          "voted": true
+          "voted": false
         },
         {
           "num": 432,
@@ -2664,13 +2664,13 @@
           "num": 435,
           "hn": "007栋3-1705",
           "area": 101.15,
-          "voted": true
+          "voted": false
         },
         {
           "num": 436,
           "hn": "007栋3-1706",
           "area": 84.52,
-          "voted": true
+          "voted": false
         },
         {
           "num": 437,
@@ -2688,7 +2688,7 @@
           "num": 439,
           "hn": "007栋3-205",
           "area": 101.15,
-          "voted": true
+          "voted": false
         },
         {
           "num": 440,
@@ -2706,7 +2706,7 @@
           "num": 442,
           "hn": "007栋3-306",
           "area": 84.52,
-          "voted": true
+          "voted": false
         },
         {
           "num": 443,
@@ -2766,19 +2766,19 @@
           "num": 452,
           "hn": "007栋3-806",
           "area": 84.52,
-          "voted": true
+          "voted": false
         },
         {
           "num": 453,
           "hn": "007栋3-905",
           "area": 101.15,
-          "voted": true
+          "voted": false
         },
         {
           "num": 454,
           "hn": "007栋3-906",
           "area": 84.52,
-          "voted": true
+          "voted": false
         }
       ],
       "slug": "007"
@@ -2787,7 +2787,7 @@
       "name": "008栋",
       "isShop": false,
       "households": 115,
-      "voted": 73,
+      "voted": 48,
       "rows": [
         {
           "num": 455,
@@ -2799,13 +2799,13 @@
           "num": 456,
           "hn": "008栋1-1002",
           "area": 112.87,
-          "voted": true
+          "voted": false
         },
         {
           "num": 457,
           "hn": "008栋1-101",
           "area": 79.16,
-          "voted": true
+          "voted": false
         },
         {
           "num": 458,
@@ -2847,7 +2847,7 @@
           "num": 464,
           "hn": "008栋1-302",
           "area": 112.87,
-          "voted": true
+          "voted": false
         },
         {
           "num": 465,
@@ -2871,7 +2871,7 @@
           "num": 468,
           "hn": "008栋1-502",
           "area": 112.87,
-          "voted": true
+          "voted": false
         },
         {
           "num": 469,
@@ -2883,7 +2883,7 @@
           "num": 470,
           "hn": "008栋1-602",
           "area": 112.87,
-          "voted": true
+          "voted": false
         },
         {
           "num": 471,
@@ -2901,7 +2901,7 @@
           "num": 473,
           "hn": "008栋1-801",
           "area": 94.54,
-          "voted": true
+          "voted": false
         },
         {
           "num": 474,
@@ -2949,7 +2949,7 @@
           "num": 481,
           "hn": "008栋2-1103",
           "area": 112.87,
-          "voted": true
+          "voted": false
         },
         {
           "num": 482,
@@ -2979,7 +2979,7 @@
           "num": 486,
           "hn": "008栋2-304",
           "area": 94.28,
-          "voted": true
+          "voted": false
         },
         {
           "num": 487,
@@ -3021,7 +3021,7 @@
           "num": 493,
           "hn": "008栋2-703",
           "area": 112.87,
-          "voted": true
+          "voted": false
         },
         {
           "num": 494,
@@ -3033,7 +3033,7 @@
           "num": 495,
           "hn": "008栋2-803",
           "area": 112.87,
-          "voted": true
+          "voted": false
         },
         {
           "num": 496,
@@ -3045,7 +3045,7 @@
           "num": 497,
           "hn": "008栋2-903",
           "area": 112.87,
-          "voted": true
+          "voted": false
         },
         {
           "num": 498,
@@ -3057,7 +3057,7 @@
           "num": 499,
           "hn": "008栋3-1005",
           "area": 84.32,
-          "voted": true
+          "voted": false
         },
         {
           "num": 500,
@@ -3081,7 +3081,7 @@
           "num": 503,
           "hn": "008栋3-1105",
           "area": 84.32,
-          "voted": true
+          "voted": false
         },
         {
           "num": 504,
@@ -3105,19 +3105,19 @@
           "num": 507,
           "hn": "008栋3-1305",
           "area": 84.6,
-          "voted": true
+          "voted": false
         },
         {
           "num": 508,
           "hn": "008栋3-1306",
           "area": 100.91,
-          "voted": true
+          "voted": false
         },
         {
           "num": 509,
           "hn": "008栋3-1405",
           "area": 84.6,
-          "voted": true
+          "voted": false
         },
         {
           "num": 510,
@@ -3141,7 +3141,7 @@
           "num": 513,
           "hn": "008栋3-1605",
           "area": 84.6,
-          "voted": true
+          "voted": false
         },
         {
           "num": 514,
@@ -3189,7 +3189,7 @@
           "num": 521,
           "hn": "008栋3-305",
           "area": 84.32,
-          "voted": true
+          "voted": false
         },
         {
           "num": 522,
@@ -3213,7 +3213,7 @@
           "num": 525,
           "hn": "008栋3-505",
           "area": 84.32,
-          "voted": true
+          "voted": false
         },
         {
           "num": 526,
@@ -3297,7 +3297,7 @@
           "num": 539,
           "hn": "008栋4-1108",
           "area": 84.33,
-          "voted": true
+          "voted": false
         },
         {
           "num": 540,
@@ -3321,7 +3321,7 @@
           "num": 543,
           "hn": "008栋4-1308",
           "area": 84.33,
-          "voted": true
+          "voted": false
         },
         {
           "num": 544,
@@ -3339,7 +3339,7 @@
           "num": 546,
           "hn": "008栋4-1507",
           "area": 100.91,
-          "voted": true
+          "voted": false
         },
         {
           "num": 547,
@@ -3363,7 +3363,7 @@
           "num": 550,
           "hn": "008栋4-1707",
           "area": 100.91,
-          "voted": true
+          "voted": false
         },
         {
           "num": 551,
@@ -3375,7 +3375,7 @@
           "num": 552,
           "hn": "008栋4-1807",
           "area": 100.91,
-          "voted": true
+          "voted": false
         },
         {
           "num": 553,
@@ -3399,7 +3399,7 @@
           "num": 556,
           "hn": "008栋4-307",
           "area": 100.91,
-          "voted": true
+          "voted": false
         },
         {
           "num": 557,
@@ -3486,7 +3486,7 @@
       "name": "009栋",
       "isShop": false,
       "households": 60,
-      "voted": 30,
+      "voted": 14,
       "rows": [
         {
           "num": 570,
@@ -3558,19 +3558,19 @@
           "num": 581,
           "hn": "009栋1-1402",
           "area": 101.24,
-          "voted": true
+          "voted": false
         },
         {
           "num": 582,
           "hn": "009栋1-1501",
           "area": 85.14,
-          "voted": true
+          "voted": false
         },
         {
           "num": 583,
           "hn": "009栋1-1502",
           "area": 101.24,
-          "voted": true
+          "voted": false
         },
         {
           "num": 584,
@@ -3582,7 +3582,7 @@
           "num": 585,
           "hn": "009栋1-202",
           "area": 101.24,
-          "voted": true
+          "voted": false
         },
         {
           "num": 586,
@@ -3594,7 +3594,7 @@
           "num": 587,
           "hn": "009栋1-302",
           "area": 101.24,
-          "voted": true
+          "voted": false
         },
         {
           "num": 588,
@@ -3630,19 +3630,19 @@
           "num": 593,
           "hn": "009栋1-602",
           "area": 101.24,
-          "voted": true
+          "voted": false
         },
         {
           "num": 594,
           "hn": "009栋1-701",
           "area": 85.14,
-          "voted": true
+          "voted": false
         },
         {
           "num": 595,
           "hn": "009栋1-702",
           "area": 101.24,
-          "voted": true
+          "voted": false
         },
         {
           "num": 596,
@@ -3690,13 +3690,13 @@
           "num": 603,
           "hn": "009栋2-104",
           "area": 83.91,
-          "voted": true
+          "voted": false
         },
         {
           "num": 604,
           "hn": "009栋2-1103",
           "area": 101.24,
-          "voted": true
+          "voted": false
         },
         {
           "num": 605,
@@ -3714,7 +3714,7 @@
           "num": 607,
           "hn": "009栋2-1204",
           "area": 84.61,
-          "voted": true
+          "voted": false
         },
         {
           "num": 608,
@@ -3774,13 +3774,13 @@
           "num": 617,
           "hn": "009栋2-304",
           "area": 84.61,
-          "voted": true
+          "voted": false
         },
         {
           "num": 618,
           "hn": "009栋2-403",
           "area": 101.24,
-          "voted": true
+          "voted": false
         },
         {
           "num": 619,
@@ -3798,13 +3798,13 @@
           "num": 621,
           "hn": "009栋2-504",
           "area": 84.61,
-          "voted": true
+          "voted": false
         },
         {
           "num": 622,
           "hn": "009栋2-603",
           "area": 101.24,
-          "voted": true
+          "voted": false
         },
         {
           "num": 623,
@@ -3840,7 +3840,7 @@
           "num": 628,
           "hn": "009栋2-903",
           "area": 101.24,
-          "voted": true
+          "voted": false
         },
         {
           "num": 629,
@@ -3855,7 +3855,7 @@
       "name": "S1栋",
       "isShop": true,
       "households": 5,
-      "voted": 4,
+      "voted": 2,
       "rows": [
         {
           "num": 630,
@@ -3873,13 +3873,13 @@
           "num": 632,
           "hn": "S1栋03",
           "area": 166.72,
-          "voted": true
+          "voted": false
         },
         {
           "num": 633,
           "hn": "S1栋04",
           "area": 166.72,
-          "voted": true
+          "voted": false
         },
         {
           "num": 634,
